@@ -17,6 +17,7 @@ db_init() {
   cd ${DB_PATH}/Server/bin/
   extraParams=""
   if [ "${CASE_INSENSITIVE}" == "true" ]; then
+    # --case-insensetive or --case-sensetive
     extraParams="--case-insensetive"
   fi
   ./initdb -USYSTEM -W${SYSTEM_PWD-123456} -E UTF8 ${DATA_DIR} ${extraParams}
