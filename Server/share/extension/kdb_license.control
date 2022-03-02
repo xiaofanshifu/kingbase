@@ -1,0 +1,5 @@
+# kdb_license extension
+comment = 'kdb_license extension'
+default_version = '1.0'
+module_pathname = '$libdir/kdb_license'
+relocatable = false

@@ -1,0 +1,5 @@
+# sm3 extension
+comment = 'provides sm3 function'
+default_version = '1.0'
+module_pathname = '$libdir/sm3'
+relocatable = false

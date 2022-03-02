@@ -1,0 +1,8 @@
+# syslogical extension
+comment = 'KingbaseES Logical Replication'
+default_version = '2.0.0'
+module_pathname = '$libdir/syslogical'
+relocatable = false
+superuser = false
+
+schema = SYSLOGICAL

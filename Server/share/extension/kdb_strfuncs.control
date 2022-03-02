@@ -1,0 +1,5 @@
+# strfuncs extension
+comment = 'add some string functions and systerm functions and mathematical functions that oralce support'
+default_version = '1.0'
+module_pathname = '$libdir/kdb_strfuncs'
+relocatable = false

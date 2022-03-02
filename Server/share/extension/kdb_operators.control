@@ -1,0 +1,5 @@
+# operator extension
+comment = 'kdb_operator, add some operators'
+default_version = '1.0'
+module_pathname = '$libdir/kdb_operators'
+relocatable = true

@@ -1,0 +1,5 @@
+# kdb_lob extension
+comment = 'kdb_lob extension'
+default_version = '1.0'
+module_pathname = '$libdir/kdb_lob'
+relocatable = true

@@ -1,0 +1,7 @@
+# sys_hm extension
+comment = 'Kingbase Healthy Check'
+default_version = '1.0'
+module_pathname = '$libdir/sys_hm'
+relocatable = false
+encoding = 'utf8'
+

@@ -1,0 +1,8 @@
+--
+--	system-wide ksql configuration file
+--
+--  This file is read before the .ksqlrc file in the user's home directory.
+--
+--  Copy this to your installation's sysconf directory and rename it ksqlrc.
+--  The sysconf directory can be identified via "sys_config --sysconfdir".
+--

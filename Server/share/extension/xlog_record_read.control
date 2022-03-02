@@ -1,0 +1,5 @@
+# xlog_record_read extension
+comment = 'xlog_record_read functions'
+default_version = '1.0'
+module_pathname = '$libdir/xlog_record_read'
+relocatable = true

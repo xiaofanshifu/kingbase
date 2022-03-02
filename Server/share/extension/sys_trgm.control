@@ -1,0 +1,5 @@
+# sys_trgm extension
+comment = 'text similarity measurement and index searching based on trigrams'
+default_version = '1.3'
+module_pathname = '$libdir/sys_trgm'
+relocatable = true

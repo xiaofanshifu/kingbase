@@ -1,0 +1,6 @@
+# sysaudit extension
+comment = 'provides auditing functionality'
+default_version = '1.0'
+module_pathname = '$libdir/sysaudit'
+relocatable = false
+schema = SYSAUDIT

@@ -1,0 +1,5 @@
+# utils functions extension
+comment = 'Functions and operators that emulate a subset of functions and packages from the Oracle RDBMS'
+default_version = '1.0'
+module_pathname = '$libdir/kdb_utils_function'
+relocatable = false

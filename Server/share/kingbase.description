@@ -1,0 +1,2996 @@
+1242	SYS_PROC	0	I/O
+1243	SYS_PROC	0	I/O
+1244	SYS_PROC	0	I/O
+31	SYS_PROC	0	I/O
+1245	SYS_PROC	0	I/O
+33	SYS_PROC	0	I/O
+34	SYS_PROC	0	I/O
+35	SYS_PROC	0	I/O
+38	SYS_PROC	0	I/O
+39	SYS_PROC	0	I/O
+40	SYS_PROC	0	I/O
+41	SYS_PROC	0	I/O
+42	SYS_PROC	0	I/O
+43	SYS_PROC	0	I/O
+44	SYS_PROC	0	I/O
+45	SYS_PROC	0	I/O
+3494	SYS_PROC	0	convert proname to regproc
+3479	SYS_PROC	0	convert proname to regprocedure
+46	SYS_PROC	0	I/O
+47	SYS_PROC	0	I/O
+48	SYS_PROC	0	I/O
+49	SYS_PROC	0	I/O
+50	SYS_PROC	0	I/O
+51	SYS_PROC	0	I/O
+52	SYS_PROC	0	I/O
+53	SYS_PROC	0	I/O
+54	SYS_PROC	0	I/O
+55	SYS_PROC	0	I/O
+77	SYS_PROC	0	convert char to int4
+78	SYS_PROC	0	convert int4 to char
+1257	SYS_PROC	0	length
+89	SYS_PROC	0	Kingbase version string
+86	SYS_PROC	0	I/O
+87	SYS_PROC	0	I/O
+88	SYS_PROC	0	I/O
+90	SYS_PROC	0	I/O
+101	SYS_PROC	0	restriction selectivity of = and related operators
+102	SYS_PROC	0	restriction selectivity of <> and related operators
+103	SYS_PROC	0	restriction selectivity of < and related operators on scalar datatypes
+104	SYS_PROC	0	restriction selectivity of > and related operators on scalar datatypes
+105	SYS_PROC	0	join selectivity of = and related operators
+106	SYS_PROC	0	join selectivity of <> and related operators
+107	SYS_PROC	0	join selectivity of < and related operators on scalar datatypes
+108	SYS_PROC	0	join selectivity of > and related operators on scalar datatypes
+109	SYS_PROC	0	I/O
+110	SYS_PROC	0	I/O
+117	SYS_PROC	0	I/O
+118	SYS_PROC	0	I/O
+119	SYS_PROC	0	I/O
+120	SYS_PROC	0	I/O
+121	SYS_PROC	0	I/O
+122	SYS_PROC	0	I/O
+123	SYS_PROC	0	I/O
+124	SYS_PROC	0	I/O
+139	SYS_PROC	0	restriction selectivity for area-comparison operators
+140	SYS_PROC	0	join selectivity for area-comparison operators
+195	SYS_PROC	0	I/O
+196	SYS_PROC	0	I/O
+197	SYS_PROC	0	I/O
+198	SYS_PROC	0	I/O
+200	SYS_PROC	0	I/O
+201	SYS_PROC	0	I/O
+208	SYS_PROC	0	aggregate transition function
+209	SYS_PROC	0	larger of two
+211	SYS_PROC	0	smaller of two
+214	SYS_PROC	0	I/O
+215	SYS_PROC	0	I/O
+222	SYS_PROC	0	aggregate transition function
+276	SYS_PROC	0	aggregate combine function
+223	SYS_PROC	0	larger of two
+224	SYS_PROC	0	smaller of two
+228	SYS_PROC	0	round to nearest integer
+229	SYS_PROC	0	truncate to integer
+2308	SYS_PROC	0	nearest integer >= value
+2320	SYS_PROC	0	nearest integer >= value
+2309	SYS_PROC	0	nearest integer <= value
+2310	SYS_PROC	0	sign of value
+233	SYS_PROC	0	natural exponential (e^x)
+234	SYS_PROC	0	natural logarithm
+235	SYS_PROC	0	convert int2 to float8
+236	SYS_PROC	0	convert int2 to float4
+237	SYS_PROC	0	convert float8 to int2
+238	SYS_PROC	0	convert float4 to int2
+240	SYS_PROC	0	I/O
+241	SYS_PROC	0	I/O
+242	SYS_PROC	0	I/O
+243	SYS_PROC	0	I/O
+246	SYS_PROC	0	I/O
+247	SYS_PROC	0	I/O
+249	SYS_PROC	0	tinterval to reltime
+250	SYS_PROC	0	current date and time (abstime)
+273	SYS_PROC	0	end of interval
+274	SYS_PROC	0	current date and time - increments during transactions
+275	SYS_PROC	0	finite abstime?
+320	SYS_PROC	0	bucket number of operand in equal-width histogram
+311	SYS_PROC	0	convert float4 to float8
+312	SYS_PROC	0	convert float8 to float4
+313	SYS_PROC	0	convert int2 to int4
+314	SYS_PROC	0	convert int4 to int2
+316	SYS_PROC	0	convert int4 to float8
+317	SYS_PROC	0	convert float8 to int4
+318	SYS_PROC	0	convert int4 to float4
+319	SYS_PROC	0	convert float4 to int4
+330	SYS_PROC	0	btree index access method handler
+331	SYS_PROC	0	hash index access method handler
+332	SYS_PROC	0	gist index access method handler
+333	SYS_PROC	0	gin index access method handler
+334	SYS_PROC	0	spgist index access method handler
+335	SYS_PROC	0	brin index access method handler
+3952	SYS_PROC	0	brin: standalone scan new table pages
+338	SYS_PROC	0	validate an operator class
+636	SYS_PROC	0	test property of an index access method
+637	SYS_PROC	0	test property of an index
+638	SYS_PROC	0	test property of an index column
+347	SYS_PROC	0	I/O
+348	SYS_PROC	0	I/O
+350	SYS_PROC	0	less-equal-greater
+3129	SYS_PROC	0	sort support
+351	SYS_PROC	0	less-equal-greater
+3130	SYS_PROC	0	sort support
+842	SYS_PROC	0	less-equal-greater
+3131	SYS_PROC	0	sort support
+354	SYS_PROC	0	less-equal-greater
+3132	SYS_PROC	0	sort support
+355	SYS_PROC	0	less-equal-greater
+3133	SYS_PROC	0	sort support
+356	SYS_PROC	0	less-equal-greater
+3134	SYS_PROC	0	sort support
+404	SYS_PROC	0	less-equal-greater
+357	SYS_PROC	0	less-equal-greater
+358	SYS_PROC	0	less-equal-greater
+359	SYS_PROC	0	less-equal-greater
+3135	SYS_PROC	0	sort support
+360	SYS_PROC	0	less-equal-greater
+3255	SYS_PROC	0	sort support
+377	SYS_PROC	0	less-equal-greater
+380	SYS_PROC	0	less-equal-greater
+381	SYS_PROC	0	less-equal-greater
+382	SYS_PROC	0	less-equal-greater
+401	SYS_PROC	0	convert char(n) to text
+406	SYS_PROC	0	convert name to text
+407	SYS_PROC	0	convert text to name
+408	SYS_PROC	0	convert name to char(n)
+409	SYS_PROC	0	convert char(n) to name
+449	SYS_PROC	0	hash
+450	SYS_PROC	0	hash
+949	SYS_PROC	0	hash
+451	SYS_PROC	0	hash
+452	SYS_PROC	0	hash
+453	SYS_PROC	0	hash
+454	SYS_PROC	0	hash
+455	SYS_PROC	0	hash
+400	SYS_PROC	0	hash
+456	SYS_PROC	0	hash
+457	SYS_PROC	0	hash
+329	SYS_PROC	0	hash
+398	SYS_PROC	0	hash
+399	SYS_PROC	0	hash
+422	SYS_PROC	0	hash
+432	SYS_PROC	0	hash
+438	SYS_PROC	0	count the number of NULL arguments
+440	SYS_PROC	0	count the number of non-NULL arguments
+458	SYS_PROC	0	larger of two
+459	SYS_PROC	0	smaller of two
+460	SYS_PROC	0	I/O
+461	SYS_PROC	0	I/O
+480	SYS_PROC	0	convert int8 to int4
+481	SYS_PROC	0	convert int4 to int8
+482	SYS_PROC	0	convert int8 to float8
+483	SYS_PROC	0	convert float8 to int8
+626	SYS_PROC	0	hash
+652	SYS_PROC	0	convert int8 to float4
+653	SYS_PROC	0	convert float4 to int8
+714	SYS_PROC	0	convert int8 to int2
+754	SYS_PROC	0	convert int2 to int8
+668	SYS_PROC	0	adjust char() to typmod length
+3097	SYS_PROC	0	transform a varchar length coercion
+669	SYS_PROC	0	adjust varchar() to typmod length
+710	SYS_PROC	0	deprecated, use current_user instead
+774	SYS_PROC	0	current user id
+779	SYS_PROC	0	get user type
+780	SYS_PROC	0	if current user is system
+781	SYS_PROC	0	if current user is syssso
+425	SYS_PROC	0	if current user is syssao
+782	SYS_PROC	0	if current user is syssao
+720	SYS_PROC	0	octet length
+721	SYS_PROC	0	get byte
+722	SYS_PROC	0	set byte
+723	SYS_PROC	0	get bit
+724	SYS_PROC	0	set bit
+749	SYS_PROC	0	substitute portion of string
+752	SYS_PROC	0	substitute portion of string
+745	SYS_PROC	0	current user name
+746	SYS_PROC	0	session user name
+747	SYS_PROC	0	array dimensions
+748	SYS_PROC	0	number of array dimensions
+750	SYS_PROC	0	I/O
+751	SYS_PROC	0	I/O
+2091	SYS_PROC	0	array lower dimension
+2092	SYS_PROC	0	array upper dimension
+2176	SYS_PROC	0	array length
+3179	SYS_PROC	0	array cardinality
+378	SYS_PROC	0	append element onto end of array
+379	SYS_PROC	0	prepend element onto front of array
+394	SYS_PROC	0	split delimited text into text[]
+395	SYS_PROC	0	concatenate array elements, using delimiter, into text
+376	SYS_PROC	0	split delimited text into text[], with null string
+384	SYS_PROC	0	concatenate array elements, using delimiter and null string, into text
+515	SYS_PROC	0	larger of two
+516	SYS_PROC	0	smaller of two
+3277	SYS_PROC	0	returns an offset of value in array
+3278	SYS_PROC	0	returns an offset of value in array with start index
+3279	SYS_PROC	0	returns an array of offsets of some value in array
+1191	SYS_PROC	0	array subscripts generator
+1192	SYS_PROC	0	array subscripts generator
+1193	SYS_PROC	0	array constructor with value
+1286	SYS_PROC	0	array constructor with value
+2331	SYS_PROC	0	expand array to set of rows
+3167	SYS_PROC	0	remove any occurrences of an element from an array
+3168	SYS_PROC	0	replace any occurrences of an element in an array
+2333	SYS_PROC	0	aggregate transition function
+2334	SYS_PROC	0	aggregate final function
+2335	SYS_PROC	0	concatenate aggregate input into an array
+4051	SYS_PROC	0	aggregate transition function
+4052	SYS_PROC	0	aggregate final function
+4053	SYS_PROC	0	concatenate aggregate input into an array
+3218	SYS_PROC	0	bucket number of operand given a sorted array of bucket lower bounds
+3816	SYS_PROC	0	array typanalyze
+3817	SYS_PROC	0	restriction selectivity for array-containment operators
+3818	SYS_PROC	0	join selectivity for array-containment operators
+760	SYS_PROC	0	I/O
+761	SYS_PROC	0	I/O
+762	SYS_PROC	0	storage manager
+763	SYS_PROC	0	storage manager
+764	SYS_PROC	0	large object import
+767	SYS_PROC	0	large object import
+765	SYS_PROC	0	large object export
+766	SYS_PROC	0	increment
+768	SYS_PROC	0	larger of two
+769	SYS_PROC	0	smaller of two
+770	SYS_PROC	0	larger of two
+771	SYS_PROC	0	smaller of two
+849	SYS_PROC	0	position of substring
+860	SYS_PROC	0	convert char to char(n)
+861	SYS_PROC	0	name of the current database
+817	SYS_PROC	0	get the currently executing query
+886	SYS_PROC	0	I/O
+887	SYS_PROC	0	I/O
+898	SYS_PROC	0	larger of two
+899	SYS_PROC	0	smaller of two
+935	SYS_PROC	0	output money amount as words
+3823	SYS_PROC	0	convert money to numeric
+3824	SYS_PROC	0	convert numeric to money
+3811	SYS_PROC	0	convert int4 to money
+3812	SYS_PROC	0	convert int8 to money
+940	SYS_PROC	0	modulus
+941	SYS_PROC	0	modulus
+947	SYS_PROC	0	modulus
+944	SYS_PROC	0	convert text to char
+946	SYS_PROC	0	convert char to text
+952	SYS_PROC	0	large object open
+953	SYS_PROC	0	large object close
+954	SYS_PROC	0	large object read
+955	SYS_PROC	0	large object write
+956	SYS_PROC	0	large object seek
+3170	SYS_PROC	0	large object seek (64 bit)
+957	SYS_PROC	0	large object create
+715	SYS_PROC	0	large object create
+958	SYS_PROC	0	large object position
+3171	SYS_PROC	0	large object position (64 bit)
+1004	SYS_PROC	0	truncate large object
+3172	SYS_PROC	0	truncate large object (64 bit)
+3457	SYS_PROC	0	create new large object with given content
+3458	SYS_PROC	0	read entire large object
+3459	SYS_PROC	0	read large object from offset for length
+3460	SYS_PROC	0	write data at offset
+964	SYS_PROC	0	large object unlink (delete)
+975	SYS_PROC	0	box area
+976	SYS_PROC	0	box width
+977	SYS_PROC	0	box height
+979	SYS_PROC	0	area of a closed path
+4067	SYS_PROC	0	bounding box of two boxes
+981	SYS_PROC	0	box diagonal
+992	SYS_PROC	0	slope between points
+993	SYS_PROC	0	convert points to line segment
+3994	SYS_PROC	0	transform a time zone adjustment
+1026	SYS_PROC	0	adjust timestamp to new time zone
+1031	SYS_PROC	0	I/O
+1032	SYS_PROC	0	I/O
+1035	SYS_PROC	0	add/update ACL item
+1036	SYS_PROC	0	remove ACL item
+1037	SYS_PROC	0	contains
+1365	SYS_PROC	0	make ACL item
+3943	SYS_PROC	0	TODO
+1689	SYS_PROC	0	convert ACL item array to table, for use by information schema
+1044	SYS_PROC	0	I/O
+1045	SYS_PROC	0	I/O
+2913	SYS_PROC	0	I/O typmod
+2914	SYS_PROC	0	I/O typmod
+1046	SYS_PROC	0	I/O
+1047	SYS_PROC	0	I/O
+2915	SYS_PROC	0	I/O typmod
+2916	SYS_PROC	0	I/O typmod
+1063	SYS_PROC	0	larger of two
+1064	SYS_PROC	0	smaller of two
+1078	SYS_PROC	0	less-equal-greater
+3328	SYS_PROC	0	sort support
+1080	SYS_PROC	0	hash
+1081	SYS_PROC	0	format a type oid and atttypmod to canonical SQL
+1084	SYS_PROC	0	I/O
+1085	SYS_PROC	0	I/O
+1092	SYS_PROC	0	less-equal-greater
+3136	SYS_PROC	0	sort support
+1107	SYS_PROC	0	less-equal-greater
+1138	SYS_PROC	0	larger of two
+1139	SYS_PROC	0	smaller of two
+1143	SYS_PROC	0	I/O
+1144	SYS_PROC	0	I/O
+2909	SYS_PROC	0	I/O typmod
+2910	SYS_PROC	0	I/O typmod
+1150	SYS_PROC	0	I/O
+1151	SYS_PROC	0	I/O
+2907	SYS_PROC	0	I/O typmod
+2908	SYS_PROC	0	I/O typmod
+1158	SYS_PROC	0	convert UNIX epoch to timestamptz
+3995	SYS_PROC	0	transform a time zone adjustment
+1159	SYS_PROC	0	adjust timestamp to new time zone
+1160	SYS_PROC	0	I/O
+1161	SYS_PROC	0	I/O
+2903	SYS_PROC	0	I/O typmod
+2904	SYS_PROC	0	I/O typmod
+1171	SYS_PROC	0	extract field from timestamp with time zone
+1172	SYS_PROC	0	extract field from interval
+1173	SYS_PROC	0	convert abstime to timestamp with time zone
+1174	SYS_PROC	0	convert date to timestamp with time zone
+2711	SYS_PROC	0	promote groups of 24 hours to numbers of days and promote groups of 30 days to numbers of months
+1175	SYS_PROC	0	promote groups of 24 hours to numbers of days
+1295	SYS_PROC	0	promote groups of 30 days to numbers of months
+1176	SYS_PROC	0	convert date and time to timestamp with time zone
+1177	SYS_PROC	0	convert reltime to interval
+1178	SYS_PROC	0	convert timestamp with time zone to date
+1179	SYS_PROC	0	convert abstime to date
+1180	SYS_PROC	0	convert timestamp with time zone to abstime
+1181	SYS_PROC	0	age of a transaction ID, in transactions before current transaction
+3939	SYS_PROC	0	age of a multi-transaction ID, in multi-transactions before current multi-transaction
+1194	SYS_PROC	0	convert interval to reltime
+1195	SYS_PROC	0	smaller of two
+1196	SYS_PROC	0	larger of two
+1197	SYS_PROC	0	smaller of two
+1198	SYS_PROC	0	larger of two
+1199	SYS_PROC	0	date difference preserving months and years
+3918	SYS_PROC	0	transform an interval length coercion
+1200	SYS_PROC	0	adjust interval precision
+1215	SYS_PROC	0	get description for object id and catalog name
+1216	SYS_PROC	0	get description for table column
+1993	SYS_PROC	0	get description for object id and shared catalog name
+1217	SYS_PROC	0	truncate timestamp with time zone to specified units
+1218	SYS_PROC	0	truncate interval to specified units
+1219	SYS_PROC	0	increment
+3546	SYS_PROC	0	decrement
+2804	SYS_PROC	0	increment, ignores second argument
+3547	SYS_PROC	0	decrement, ignores second argument
+1236	SYS_PROC	0	larger of two
+1237	SYS_PROC	0	smaller of two
+1271	SYS_PROC	0	intervals overlap?
+1273	SYS_PROC	0	extract field from time with time zone
+1287	SYS_PROC	0	convert int8 to oid
+1288	SYS_PROC	0	convert oid to int8
+1291	SYS_PROC	0	trigger to suppress updates when new and old records match
+1293	SYS_PROC	0	latest tid of a tuple
+1294	SYS_PROC	0	latest tid of a tuple
+2794	SYS_PROC	0	less-equal-greater
+2795	SYS_PROC	0	larger of two
+2796	SYS_PROC	0	smaller of two
+1299	SYS_PROC	0	current transaction time
+2647	SYS_PROC	0	current transaction time
+2648	SYS_PROC	0	current statement time
+2649	SYS_PROC	0	current clock time
+1300	SYS_PROC	0	restriction selectivity for position-comparison operators
+1301	SYS_PROC	0	join selectivity for position-comparison operators
+1302	SYS_PROC	0	restriction selectivity for containment comparison operators
+1303	SYS_PROC	0	join selectivity for containment comparison operators
+1304	SYS_PROC	0	intervals overlap?
+1305	SYS_PROC	0	intervals overlap?
+1306	SYS_PROC	0	intervals overlap?
+1307	SYS_PROC	0	intervals overlap?
+1308	SYS_PROC	0	intervals overlap?
+1309	SYS_PROC	0	intervals overlap?
+1310	SYS_PROC	0	intervals overlap?
+1311	SYS_PROC	0	intervals overlap?
+1312	SYS_PROC	0	I/O
+1313	SYS_PROC	0	I/O
+2905	SYS_PROC	0	I/O typmod
+2906	SYS_PROC	0	I/O typmod
+1314	SYS_PROC	0	less-equal-greater
+1315	SYS_PROC	0	less-equal-greater
+1316	SYS_PROC	0	convert timestamp to time
+1317	SYS_PROC	0	length
+1318	SYS_PROC	0	character length
+1339	SYS_PROC	0	base 10 logarithm
+1340	SYS_PROC	0	base 10 logarithm
+1341	SYS_PROC	0	natural logarithm
+1342	SYS_PROC	0	round to nearest integer
+1343	SYS_PROC	0	truncate to integer
+1344	SYS_PROC	0	square root
+1345	SYS_PROC	0	cube root
+1346	SYS_PROC	0	exponentiation
+1368	SYS_PROC	0	exponentiation
+1347	SYS_PROC	0	natural exponential (e^x)
+1348	SYS_PROC	0	deprecated, use two-argument form instead
+1349	SYS_PROC	0	print type names of oidvector field
+1350	SYS_PROC	0	I/O
+1351	SYS_PROC	0	I/O
+2911	SYS_PROC	0	I/O typmod
+2912	SYS_PROC	0	I/O typmod
+1358	SYS_PROC	0	less-equal-greater
+1359	SYS_PROC	0	convert date and time with time zone to timestamp with time zone
+1364	SYS_PROC	0	convert abstime to time
+1367	SYS_PROC	0	character length
+1369	SYS_PROC	0	character length
+1370	SYS_PROC	0	convert time to interval
+1372	SYS_PROC	0	character length
+1374	SYS_PROC	0	octet length
+1375	SYS_PROC	0	octet length
+1377	SYS_PROC	0	larger of two
+1378	SYS_PROC	0	smaller of two
+1379	SYS_PROC	0	larger of two
+1380	SYS_PROC	0	smaller of two
+1381	SYS_PROC	0	character length
+1382	SYS_PROC	0	extract field from abstime
+1383	SYS_PROC	0	extract field from reltime
+1384	SYS_PROC	0	extract field from date
+1385	SYS_PROC	0	extract field from time
+1386	SYS_PROC	0	date difference from today preserving months and years
+1388	SYS_PROC	0	convert timestamp with time zone to time with time zone
+1373	SYS_PROC	0	finite date?
+1389	SYS_PROC	0	finite timestamp?
+1390	SYS_PROC	0	finite interval?
+1376	SYS_PROC	0	factorial
+1394	SYS_PROC	0	absolute value
+1395	SYS_PROC	0	absolute value
+1396	SYS_PROC	0	absolute value
+1397	SYS_PROC	0	absolute value
+1398	SYS_PROC	0	absolute value
+1400	SYS_PROC	0	convert varchar to name
+1401	SYS_PROC	0	convert name to varchar
+1402	SYS_PROC	0	current schema name
+1403	SYS_PROC	0	current schema search list
+1404	SYS_PROC	0	substitute portion of string
+1405	SYS_PROC	0	substitute portion of string
+1406	SYS_PROC	0	vertically aligned
+1407	SYS_PROC	0	horizontally aligned
+1408	SYS_PROC	0	parallel
+1409	SYS_PROC	0	perpendicular
+1410	SYS_PROC	0	vertical
+1411	SYS_PROC	0	horizontal
+1412	SYS_PROC	0	parallel
+1413	SYS_PROC	0	perpendicular
+1414	SYS_PROC	0	vertical
+1415	SYS_PROC	0	horizontal
+1416	SYS_PROC	0	center of
+1419	SYS_PROC	0	convert interval to time
+1421	SYS_PROC	0	convert points to box
+1430	SYS_PROC	0	path closed?
+1431	SYS_PROC	0	path open?
+1433	SYS_PROC	0	close path
+1434	SYS_PROC	0	open path
+1440	SYS_PROC	0	convert x, y to point
+1446	SYS_PROC	0	convert polygon to bounding box
+1447	SYS_PROC	0	convert polygon to path
+1448	SYS_PROC	0	convert box to polygon
+1449	SYS_PROC	0	convert path to polygon
+1450	SYS_PROC	0	I/O
+1451	SYS_PROC	0	I/O
+1468	SYS_PROC	0	area of circle
+1469	SYS_PROC	0	diameter of circle
+1470	SYS_PROC	0	radius of circle
+1473	SYS_PROC	0	convert point and radius to circle
+1474	SYS_PROC	0	convert polygon to circle
+1475	SYS_PROC	0	convert vertex count and circle to polygon
+4091	SYS_PROC	0	convert point to empty box
+1479	SYS_PROC	0	convert box to circle
+1480	SYS_PROC	0	convert circle to box
+1481	SYS_PROC	0	convert to tinterval
+1490	SYS_PROC	0	I/O
+1491	SYS_PROC	0	I/O
+1493	SYS_PROC	0	construct line from points
+1530	SYS_PROC	0	distance between endpoints
+1531	SYS_PROC	0	sum of path segments
+1532	SYS_PROC	0	center of
+1533	SYS_PROC	0	center of
+1534	SYS_PROC	0	center of
+1540	SYS_PROC	0	center of
+1541	SYS_PROC	0	diagonal of
+1542	SYS_PROC	0	center of
+1543	SYS_PROC	0	center of
+1544	SYS_PROC	0	convert circle to 12-vertex polygon
+1545	SYS_PROC	0	number of points
+1556	SYS_PROC	0	number of points
+1564	SYS_PROC	0	I/O
+1565	SYS_PROC	0	I/O
+2919	SYS_PROC	0	I/O typmod
+2920	SYS_PROC	0	I/O typmod
+1569	SYS_PROC	0	matches LIKE expression
+1570	SYS_PROC	0	does not match LIKE expression
+1571	SYS_PROC	0	matches LIKE expression
+1572	SYS_PROC	0	does not match LIKE expression
+1574	SYS_PROC	0	sequence next value
+1575	SYS_PROC	0	sequence current value
+1576	SYS_PROC	0	set sequence value
+1765	SYS_PROC	0	set sequence value and is_called status
+3078	SYS_PROC	0	sequence parameters, for use by information schema
+1579	SYS_PROC	0	I/O
+1580	SYS_PROC	0	I/O
+2902	SYS_PROC	0	I/O typmod
+2921	SYS_PROC	0	I/O typmod
+1596	SYS_PROC	0	less-equal-greater
+1598	SYS_PROC	0	random value
+1599	SYS_PROC	0	set random seed
+1600	SYS_PROC	0	arcsine
+1601	SYS_PROC	0	arccosine
+1602	SYS_PROC	0	arctangent
+1603	SYS_PROC	0	arctangent, two arguments
+1604	SYS_PROC	0	sine
+1605	SYS_PROC	0	cosine
+1606	SYS_PROC	0	tangent
+1607	SYS_PROC	0	cotangent
+2731	SYS_PROC	0	arcsine, degrees
+2732	SYS_PROC	0	arccosine, degrees
+2733	SYS_PROC	0	arctangent, degrees
+2734	SYS_PROC	0	arctangent, two arguments, degrees
+2735	SYS_PROC	0	sine, degrees
+2736	SYS_PROC	0	cosine, degrees
+2737	SYS_PROC	0	tangent, degrees
+2738	SYS_PROC	0	cotangent, degrees
+1608	SYS_PROC	0	radians to degrees
+1609	SYS_PROC	0	degrees to radians
+1610	SYS_PROC	0	PI
+1620	SYS_PROC	0	convert first char to int4
+1621	SYS_PROC	0	convert int4 to char
+1622	SYS_PROC	0	replicate string n times
+1623	SYS_PROC	0	convert SQL99 regexp pattern to POSIX style
+1637	SYS_PROC	0	convert LIKE pattern to use backslash escapes
+868	SYS_PROC	0	position of substring
+870	SYS_PROC	0	lowercase
+871	SYS_PROC	0	uppercase
+872	SYS_PROC	0	capitalize each word
+873	SYS_PROC	0	left-pad string to length
+874	SYS_PROC	0	right-pad string to length
+875	SYS_PROC	0	trim selected characters from left end of string
+876	SYS_PROC	0	trim selected characters from right end of string
+877	SYS_PROC	0	extract portion of string
+775	SYS_PROC	0	extract portion of string
+776	SYS_PROC	0	extract portion of string
+878	SYS_PROC	0	map a set of characters appearing in string
+879	SYS_PROC	0	left-pad string to length
+880	SYS_PROC	0	right-pad string to length
+881	SYS_PROC	0	trim spaces from left end of string
+882	SYS_PROC	0	trim spaces from right end of string
+883	SYS_PROC	0	extract portion of string
+777	SYS_PROC	0	extract portion of string
+778	SYS_PROC	0	extract portion of string
+884	SYS_PROC	0	trim selected characters from both ends of string
+885	SYS_PROC	0	trim spaces from both ends of string
+936	SYS_PROC	0	extract portion of string
+937	SYS_PROC	0	extract portion of string
+2087	SYS_PROC	0	replace all occurrences in string of old_substr with new_substr
+3346	SYS_PROC	0	replace all occurrences in string of old_substr with new_substr
+2284	SYS_PROC	0	replace text using regexp
+2285	SYS_PROC	0	replace text using regexp
+2763	SYS_PROC	0	find all match groups for regexp
+2764	SYS_PROC	0	find all match groups for regexp
+2088	SYS_PROC	0	split string by field_sep and return field_num
+2765	SYS_PROC	0	split string by pattern
+2766	SYS_PROC	0	split string by pattern
+2767	SYS_PROC	0	split string by pattern
+2768	SYS_PROC	0	split string by pattern
+2089	SYS_PROC	0	convert int4 number to hex
+2090	SYS_PROC	0	convert int8 number to hex
+1039	SYS_PROC	0	encoding name of current database
+810	SYS_PROC	0	encoding name of current database
+1713	SYS_PROC	0	length of string in specified encoding
+1714	SYS_PROC	0	convert string with specified source encoding name
+1717	SYS_PROC	0	convert string with specified destination encoding name
+1813	SYS_PROC	0	convert string with specified encoding names
+1264	SYS_PROC	0	convert encoding name to encoding id
+3343	SYS_PROC	0	convert string with specified encoding names
+3344	SYS_PROC	0	convert string with specified encoding names
+3347	SYS_PROC	0	convert string with specified encoding names
+1597	SYS_PROC	0	convert encoding id to encoding name
+2319	SYS_PROC	0	maximum octet length of a character in given encoding
+1573	SYS_PROC	0	source text of a rule
+1640	SYS_PROC	0	select statement of a view
+1641	SYS_PROC	0	select statement of a view
+1642	SYS_PROC	0	role name by OID (with fallback)
+1643	SYS_PROC	0	index description
+1662	SYS_PROC	0	trigger description
+1387	SYS_PROC	0	constraint description
+1716	SYS_PROC	0	deparse an encoded expression
+1665	SYS_PROC	0	name of sequence for a serial column
+2098	SYS_PROC	0	definition of a function
+2162	SYS_PROC	0	argument list of a function
+2232	SYS_PROC	0	identity argument list of a function
+2165	SYS_PROC	0	result type of a function
+3808	SYS_PROC	0	function argument default
+1686	SYS_PROC	0	list of SQL keywords
+2289	SYS_PROC	0	convert generic options array to name/value table
+1619	SYS_PROC	0	type of the argument
+3162	SYS_PROC	0	collation of the argument; implementation of the COLLATION FOR expression
+3842	SYS_PROC	0	is a relation insertable/updatable/deletable
+3843	SYS_PROC	0	is a column updatable
+1250	SYS_PROC	0	deferred UNIQUE constraint check
+1644	SYS_PROC	0	referential integrity FOREIGN KEY ... REFERENCES
+1645	SYS_PROC	0	referential integrity FOREIGN KEY ... REFERENCES
+1646	SYS_PROC	0	referential integrity ON DELETE CASCADE
+1647	SYS_PROC	0	referential integrity ON UPDATE CASCADE
+1648	SYS_PROC	0	referential integrity ON DELETE RESTRICT
+1649	SYS_PROC	0	referential integrity ON UPDATE RESTRICT
+1650	SYS_PROC	0	referential integrity ON DELETE SET NULL
+1651	SYS_PROC	0	referential integrity ON UPDATE SET NULL
+1652	SYS_PROC	0	referential integrity ON DELETE SET DEFAULT
+1653	SYS_PROC	0	referential integrity ON UPDATE SET DEFAULT
+1654	SYS_PROC	0	referential integrity ON DELETE NO ACTION
+1655	SYS_PROC	0	referential integrity ON UPDATE NO ACTION
+1672	SYS_PROC	0	less-equal-greater
+1680	SYS_PROC	0	extract portion of bitstring
+1681	SYS_PROC	0	bitstring length
+1682	SYS_PROC	0	octet length
+1683	SYS_PROC	0	convert int4 to bitstring
+1684	SYS_PROC	0	convert bitstring to int4
+1685	SYS_PROC	0	adjust bit() to typmod length
+3158	SYS_PROC	0	transform a varbit length coercion
+1687	SYS_PROC	0	adjust varbit() to typmod length
+1698	SYS_PROC	0	position of sub-bitstring
+1699	SYS_PROC	0	extract portion of bitstring
+3030	SYS_PROC	0	substitute portion of bitstring
+3031	SYS_PROC	0	substitute portion of bitstring
+3032	SYS_PROC	0	get bit
+3033	SYS_PROC	0	set bit
+436	SYS_PROC	0	I/O
+437	SYS_PROC	0	I/O
+753	SYS_PROC	0	MAC manufacturer fields
+836	SYS_PROC	0	less-equal-greater
+910	SYS_PROC	0	I/O
+911	SYS_PROC	0	I/O
+1267	SYS_PROC	0	I/O
+1427	SYS_PROC	0	I/O
+3562	SYS_PROC	0	larger of two
+3563	SYS_PROC	0	smaller of two
+926	SYS_PROC	0	less-equal-greater
+598	SYS_PROC	0	abbreviated display of inet value
+599	SYS_PROC	0	abbreviated display of cidr value
+605	SYS_PROC	0	change netmask of inet
+635	SYS_PROC	0	change netmask of cidr
+711	SYS_PROC	0	address family (4 for IPv4, 6 for IPv6)
+683	SYS_PROC	0	network part of address
+696	SYS_PROC	0	netmask of address
+697	SYS_PROC	0	netmask length
+698	SYS_PROC	0	broadcast address of network
+699	SYS_PROC	0	show address octets only
+730	SYS_PROC	0	show all parts of inet/cidr value
+1362	SYS_PROC	0	hostmask of address
+1715	SYS_PROC	0	convert inet to cidr
+2196	SYS_PROC	0	inet address of the client
+2197	SYS_PROC	0	client's port number for this connection
+2198	SYS_PROC	0	inet address of the server
+2199	SYS_PROC	0	server's port number for this connection
+4071	SYS_PROC	0	are the addresses from the same family?
+4063	SYS_PROC	0	the smallest network which includes both of the given networks
+3553	SYS_PROC	0	GiST support
+3554	SYS_PROC	0	GiST support
+3555	SYS_PROC	0	GiST support
+3556	SYS_PROC	0	GiST support
+3573	SYS_PROC	0	GiST support
+3557	SYS_PROC	0	GiST support
+3558	SYS_PROC	0	GiST support
+3559	SYS_PROC	0	GiST support
+3560	SYS_PROC	0	restriction selectivity for network operators
+3561	SYS_PROC	0	join selectivity for network operators
+1693	SYS_PROC	0	less-equal-greater
+1688	SYS_PROC	0	hash
+1696	SYS_PROC	0	hash
+1697	SYS_PROC	0	hash
+1701	SYS_PROC	0	I/O
+1702	SYS_PROC	0	I/O
+2917	SYS_PROC	0	I/O typmod
+2918	SYS_PROC	0	I/O typmod
+3157	SYS_PROC	0	transform a numeric length coercion
+1703	SYS_PROC	0	adjust numeric to typmod precision/scale
+1705	SYS_PROC	0	absolute value
+1706	SYS_PROC	0	sign of value
+1707	SYS_PROC	0	value rounded to 'scale'
+1708	SYS_PROC	0	value rounded to 'scale' of zero
+1709	SYS_PROC	0	value truncated to 'scale'
+1710	SYS_PROC	0	value truncated to 'scale' of zero
+1711	SYS_PROC	0	nearest integer >= value
+2167	SYS_PROC	0	nearest integer >= value
+1712	SYS_PROC	0	nearest integer <= value
+1728	SYS_PROC	0	modulus
+1730	SYS_PROC	0	square root
+1731	SYS_PROC	0	square root
+1732	SYS_PROC	0	natural exponential (e^x)
+1733	SYS_PROC	0	natural exponential (e^x)
+1734	SYS_PROC	0	natural logarithm
+1735	SYS_PROC	0	natural logarithm
+1736	SYS_PROC	0	logarithm base m of n
+1737	SYS_PROC	0	logarithm base m of n
+1738	SYS_PROC	0	exponentiation
+2169	SYS_PROC	0	exponentiation
+8888	SYS_PROC	0	number of decimal digits in the fractional part
+1740	SYS_PROC	0	convert int4 to numeric
+1741	SYS_PROC	0	base 10 logarithm
+1742	SYS_PROC	0	convert float4 to numeric
+1743	SYS_PROC	0	convert float8 to numeric
+1744	SYS_PROC	0	convert numeric to int4
+1745	SYS_PROC	0	convert numeric to float4
+1746	SYS_PROC	0	convert numeric to float8
+1973	SYS_PROC	0	trunc(x/y)
+1980	SYS_PROC	0	trunc(x/y)
+2170	SYS_PROC	0	bucket number of operand in equal-width histogram
+1764	SYS_PROC	0	increment by one
+1766	SYS_PROC	0	smaller of two
+1767	SYS_PROC	0	larger of two
+1769	SYS_PROC	0	less-equal-greater
+3283	SYS_PROC	0	sort support
+1779	SYS_PROC	0	convert numeric to int8
+1781	SYS_PROC	0	convert int8 to numeric
+1782	SYS_PROC	0	convert int2 to numeric
+1783	SYS_PROC	0	convert numeric to int2
+1770	SYS_PROC	0	format timestamp with time zone to text
+1772	SYS_PROC	0	format numeric to text
+1773	SYS_PROC	0	format int4 to text
+772	SYS_PROC	0	format int2 to text
+1774	SYS_PROC	0	format int8 to text
+1775	SYS_PROC	0	format float4 to text
+1776	SYS_PROC	0	format float8 to text
+1777	SYS_PROC	0	convert text to numeric
+1778	SYS_PROC	0	convert text to timestamp with time zone
+1780	SYS_PROC	0	convert text to date
+1768	SYS_PROC	0	format interval to text
+1282	SYS_PROC	0	quote an identifier for usage in a querystring
+1283	SYS_PROC	0	quote a literal for usage in a querystring
+1285	SYS_PROC	0	quote a data value for usage in a querystring
+1289	SYS_PROC	0	quote a possibly-null literal for usage in a querystring
+1290	SYS_PROC	0	quote a possibly-null data value for usage in a querystring
+1798	SYS_PROC	0	I/O
+1799	SYS_PROC	0	I/O
+3381	SYS_PROC	0	concatenate values
+3058	SYS_PROC	0	concatenate values
+3059	SYS_PROC	0	concatenate values with separators
+3060	SYS_PROC	0	extract the first n characters
+3061	SYS_PROC	0	extract the last n characters
+3062	SYS_PROC	0	reverse text
+3539	SYS_PROC	0	format text message
+3540	SYS_PROC	0	format text message
+1810	SYS_PROC	0	length in bits
+1811	SYS_PROC	0	length in bits
+1812	SYS_PROC	0	length in bits
+1814	SYS_PROC	0	restriction selectivity of ILIKE
+1815	SYS_PROC	0	restriction selectivity of NOT ILIKE
+1816	SYS_PROC	0	join selectivity of ILIKE
+1817	SYS_PROC	0	join selectivity of NOT ILIKE
+1818	SYS_PROC	0	restriction selectivity of regex match
+1819	SYS_PROC	0	restriction selectivity of LIKE
+1820	SYS_PROC	0	restriction selectivity of case-insensitive regex match
+1821	SYS_PROC	0	restriction selectivity of regex non-match
+1822	SYS_PROC	0	restriction selectivity of NOT LIKE
+1823	SYS_PROC	0	restriction selectivity of case-insensitive regex non-match
+1824	SYS_PROC	0	join selectivity of regex match
+1825	SYS_PROC	0	join selectivity of LIKE
+1826	SYS_PROC	0	join selectivity of case-insensitive regex match
+1827	SYS_PROC	0	join selectivity of regex non-match
+1828	SYS_PROC	0	join selectivity of NOT LIKE
+1829	SYS_PROC	0	join selectivity of case-insensitive regex non-match
+1830	SYS_PROC	0	aggregate final function
+2512	SYS_PROC	0	aggregate final function
+1831	SYS_PROC	0	aggregate final function
+2513	SYS_PROC	0	aggregate final function
+1832	SYS_PROC	0	aggregate final function
+1833	SYS_PROC	0	aggregate transition function
+3341	SYS_PROC	0	aggregate combine function
+2858	SYS_PROC	0	aggregate transition function
+3337	SYS_PROC	0	aggregate combine function
+2740	SYS_PROC	0	aggregate serial function
+2741	SYS_PROC	0	aggregate deserial function
+3335	SYS_PROC	0	aggregate serial function
+3336	SYS_PROC	0	aggregate deserial function
+3548	SYS_PROC	0	aggregate transition function
+1834	SYS_PROC	0	aggregate transition function
+1835	SYS_PROC	0	aggregate transition function
+1836	SYS_PROC	0	aggregate transition function
+3338	SYS_PROC	0	aggregate combine function
+3339	SYS_PROC	0	aggregate serial function
+3340	SYS_PROC	0	aggregate deserial function
+2746	SYS_PROC	0	aggregate transition function
+3567	SYS_PROC	0	aggregate transition function
+3568	SYS_PROC	0	aggregate transition function
+3569	SYS_PROC	0	aggregate transition function
+3387	SYS_PROC	0	aggregate transition function
+2785	SYS_PROC	0	aggregate combine function
+2786	SYS_PROC	0	aggregate serial function
+2787	SYS_PROC	0	aggregate deserial function
+3324	SYS_PROC	0	aggregate combine function
+3178	SYS_PROC	0	aggregate final function
+1837	SYS_PROC	0	aggregate final function
+2514	SYS_PROC	0	aggregate final function
+1838	SYS_PROC	0	aggregate final function
+2596	SYS_PROC	0	aggregate final function
+1839	SYS_PROC	0	aggregate final function
+1840	SYS_PROC	0	aggregate transition function
+1841	SYS_PROC	0	aggregate transition function
+1842	SYS_PROC	0	aggregate transition function
+3388	SYS_PROC	0	aggregate final function
+3389	SYS_PROC	0	aggregate final function
+3390	SYS_PROC	0	aggregate final function
+3391	SYS_PROC	0	aggregate final function
+3392	SYS_PROC	0	aggregate final function
+3393	SYS_PROC	0	aggregate final function
+1843	SYS_PROC	0	aggregate transition function
+3325	SYS_PROC	0	aggregate combine function
+3549	SYS_PROC	0	aggregate transition function
+1844	SYS_PROC	0	aggregate final function
+1962	SYS_PROC	0	aggregate transition function
+1963	SYS_PROC	0	aggregate transition function
+3570	SYS_PROC	0	aggregate transition function
+3571	SYS_PROC	0	aggregate transition function
+1964	SYS_PROC	0	aggregate final function
+3572	SYS_PROC	0	aggregate final function
+2805	SYS_PROC	0	aggregate transition function
+2806	SYS_PROC	0	aggregate transition function
+3342	SYS_PROC	0	aggregate combine function
+2807	SYS_PROC	0	aggregate final function
+2808	SYS_PROC	0	aggregate final function
+2809	SYS_PROC	0	aggregate final function
+2810	SYS_PROC	0	aggregate final function
+2811	SYS_PROC	0	aggregate final function
+2812	SYS_PROC	0	aggregate final function
+2813	SYS_PROC	0	aggregate final function
+2814	SYS_PROC	0	aggregate final function
+2815	SYS_PROC	0	aggregate final function
+2816	SYS_PROC	0	aggregate final function
+2817	SYS_PROC	0	aggregate final function
+3535	SYS_PROC	0	aggregate transition function
+3536	SYS_PROC	0	aggregate final function
+3538	SYS_PROC	0	concatenate aggregate input into a string
+3543	SYS_PROC	0	aggregate transition function
+3544	SYS_PROC	0	aggregate final function
+3545	SYS_PROC	0	concatenate aggregate input into a bytea
+3800	SYS_PROC	0	concatenate aggregate input into an array
+1845	SYS_PROC	0	encode text from DB encoding to ASCII text
+1846	SYS_PROC	0	encode text from encoding to ASCII text
+1847	SYS_PROC	0	encode text from encoding to ASCII text
+1922	SYS_PROC	0	user privilege on relation by username, rel name
+1923	SYS_PROC	0	user privilege on relation by username, rel oid
+1924	SYS_PROC	0	user privilege on relation by user oid, rel name
+1925	SYS_PROC	0	user privilege on relation by user oid, rel oid
+1926	SYS_PROC	0	current user privilege on relation by rel name
+1927	SYS_PROC	0	current user privilege on relation by rel oid
+2181	SYS_PROC	0	user privilege on sequence by username, seq name
+2182	SYS_PROC	0	user privilege on sequence by username, seq oid
+2183	SYS_PROC	0	user privilege on sequence by user oid, seq name
+2184	SYS_PROC	0	user privilege on sequence by user oid, seq oid
+2185	SYS_PROC	0	current user privilege on sequence by seq name
+2186	SYS_PROC	0	current user privilege on sequence by seq oid
+3012	SYS_PROC	0	user privilege on column by username, rel name, col name
+3013	SYS_PROC	0	user privilege on column by username, rel name, col attnum
+3014	SYS_PROC	0	user privilege on column by username, rel oid, col name
+3015	SYS_PROC	0	user privilege on column by username, rel oid, col attnum
+3016	SYS_PROC	0	user privilege on column by user oid, rel name, col name
+3017	SYS_PROC	0	user privilege on column by user oid, rel name, col attnum
+3018	SYS_PROC	0	user privilege on column by user oid, rel oid, col name
+3019	SYS_PROC	0	user privilege on column by user oid, rel oid, col attnum
+3020	SYS_PROC	0	current user privilege on column by rel name, col name
+3021	SYS_PROC	0	current user privilege on column by rel name, col attnum
+3022	SYS_PROC	0	current user privilege on column by rel oid, col name
+3023	SYS_PROC	0	current user privilege on column by rel oid, col attnum
+3024	SYS_PROC	0	user privilege on any column by username, rel name
+3025	SYS_PROC	0	user privilege on any column by username, rel oid
+3026	SYS_PROC	0	user privilege on any column by user oid, rel name
+3027	SYS_PROC	0	user privilege on any column by user oid, rel oid
+3028	SYS_PROC	0	current user privilege on any column by rel name
+3029	SYS_PROC	0	current user privilege on any column by rel oid
+1928	SYS_PROC	0	statistics: number of scans done for table/index
+1929	SYS_PROC	0	statistics: number of tuples read by seqscan
+1930	SYS_PROC	0	statistics: number of tuples fetched by idxscan
+1931	SYS_PROC	0	statistics: number of tuples inserted
+1932	SYS_PROC	0	statistics: number of tuples updated
+1933	SYS_PROC	0	statistics: number of tuples deleted
+1972	SYS_PROC	0	statistics: number of tuples hot updated
+2878	SYS_PROC	0	statistics: number of live tuples
+2879	SYS_PROC	0	statistics: number of dead tuples
+3177	SYS_PROC	0	statistics: number of tuples changed since last analyze
+1934	SYS_PROC	0	statistics: number of blocks fetched
+1935	SYS_PROC	0	statistics: number of blocks found in cache
+2781	SYS_PROC	0	statistics: last manual vacuum time for a table
+2782	SYS_PROC	0	statistics: last auto vacuum time for a table
+2783	SYS_PROC	0	statistics: last manual analyze time for a table
+2784	SYS_PROC	0	statistics: last auto analyze time for a table
+3054	SYS_PROC	0	statistics: number of manual vacuums for a table
+3055	SYS_PROC	0	statistics: number of auto vacuums for a table
+3056	SYS_PROC	0	statistics: number of manual analyzes for a table
+3057	SYS_PROC	0	statistics: number of auto analyzes for a table
+1936	SYS_PROC	0	statistics: currently active backend IDs
+2022	SYS_PROC	0	statistics: information about currently active backends
+3318	SYS_PROC	0	statistics: information about progress of backends running maintenance command
+3099	SYS_PROC	0	statistics: information about currently active replication
+3317	SYS_PROC	0	statistics: information about WAL receiver
+2026	SYS_PROC	0	statistics: current backend PID
+1937	SYS_PROC	0	statistics: PID of backend
+1938	SYS_PROC	0	statistics: database ID of backend
+1939	SYS_PROC	0	statistics: user ID of backend
+1940	SYS_PROC	0	statistics: current query of backend
+2788	SYS_PROC	0	statistics: wait event type on which backend is currently waiting
+2853	SYS_PROC	0	statistics: wait event on which backend is currently waiting
+2094	SYS_PROC	0	statistics: start time for current query of backend
+2857	SYS_PROC	0	statistics: start time for backend's current transaction
+1391	SYS_PROC	0	statistics: start time for current backend session
+1392	SYS_PROC	0	statistics: address of client connected to backend
+1393	SYS_PROC	0	statistics: port number of client connected to backend
+1941	SYS_PROC	0	statistics: number of backends in database
+1942	SYS_PROC	0	statistics: transactions committed
+1943	SYS_PROC	0	statistics: transactions rolled back
+1944	SYS_PROC	0	statistics: blocks fetched for database
+1945	SYS_PROC	0	statistics: blocks found in cache for database
+2758	SYS_PROC	0	statistics: tuples returned for database
+2759	SYS_PROC	0	statistics: tuples fetched for database
+2760	SYS_PROC	0	statistics: tuples inserted in database
+2761	SYS_PROC	0	statistics: tuples updated in database
+2762	SYS_PROC	0	statistics: tuples deleted in database
+3065	SYS_PROC	0	statistics: recovery conflicts in database caused by drop tablespace
+3066	SYS_PROC	0	statistics: recovery conflicts in database caused by relation lock
+3067	SYS_PROC	0	statistics: recovery conflicts in database caused by snapshot expiry
+3068	SYS_PROC	0	statistics: recovery conflicts in database caused by shared buffer pin
+3069	SYS_PROC	0	statistics: recovery conflicts in database caused by buffer deadlock
+3070	SYS_PROC	0	statistics: recovery conflicts in database
+3152	SYS_PROC	0	statistics: deadlocks detected in database
+3074	SYS_PROC	0	statistics: last reset for a database
+3150	SYS_PROC	0	statistics: number of temporary files written
+3151	SYS_PROC	0	statistics: number of bytes in temporary files written
+2844	SYS_PROC	0	statistics: block read time, in msec
+2845	SYS_PROC	0	statistics: block write time, in msec
+3195	SYS_PROC	0	statistics: information about WAL archiver
+2769	SYS_PROC	0	statistics: number of timed checkpoints started by the bgwriter
+2770	SYS_PROC	0	statistics: number of backend requested checkpoints started by the bgwriter
+2771	SYS_PROC	0	statistics: number of buffers written by the bgwriter during checkpoints
+2772	SYS_PROC	0	statistics: number of buffers written by the bgwriter for cleaning dirty buffers
+2773	SYS_PROC	0	statistics: number of times the bgwriter stopped processing when it had written too many buffers while cleaning
+3075	SYS_PROC	0	statistics: last reset for the bgwriter
+3160	SYS_PROC	0	statistics: checkpoint time spent writing buffers to disk, in msec
+3161	SYS_PROC	0	statistics: checkpoint time spent synchronizing buffers to disk, in msec
+2775	SYS_PROC	0	statistics: number of buffers written by backends
+3063	SYS_PROC	0	statistics: number of backend buffer writes that did their own fsync
+2859	SYS_PROC	0	statistics: number of buffer allocations
+2978	SYS_PROC	0	statistics: number of function calls
+2979	SYS_PROC	0	statistics: total execution time of function, in msec
+2980	SYS_PROC	0	statistics: self execution time of function, in msec
+3037	SYS_PROC	0	statistics: number of scans done for table/index in current transaction
+3038	SYS_PROC	0	statistics: number of tuples read by seqscan in current transaction
+3039	SYS_PROC	0	statistics: number of tuples fetched by idxscan in current transaction
+3040	SYS_PROC	0	statistics: number of tuples inserted in current transaction
+3041	SYS_PROC	0	statistics: number of tuples updated in current transaction
+3042	SYS_PROC	0	statistics: number of tuples deleted in current transaction
+3043	SYS_PROC	0	statistics: number of tuples hot updated in current transaction
+3044	SYS_PROC	0	statistics: number of blocks fetched in current transaction
+3045	SYS_PROC	0	statistics: number of blocks found in cache in current transaction
+3046	SYS_PROC	0	statistics: number of function calls in current transaction
+3047	SYS_PROC	0	statistics: total execution time of function in current transaction, in msec
+3048	SYS_PROC	0	statistics: self execution time of function in current transaction, in msec
+3788	SYS_PROC	0	statistics: timestamp of the current statistics snapshot
+2230	SYS_PROC	0	statistics: discard current transaction's statistics snapshot
+2274	SYS_PROC	0	statistics: reset collected statistics for current database
+3775	SYS_PROC	0	statistics: reset collected statistics shared across the cluster
+3776	SYS_PROC	0	statistics: reset collected statistics for a single table or index in the current database
+3777	SYS_PROC	0	statistics: reset collected statistics for a single function in the current database
+3163	SYS_PROC	0	current trigger depth
+3778	SYS_PROC	0	tablespace location
+1946	SYS_PROC	0	convert bytea value into some ascii-only text string
+1947	SYS_PROC	0	convert ascii-encoded text string into bytea value
+1954	SYS_PROC	0	less-equal-greater
+3331	SYS_PROC	0	sort support
+3917	SYS_PROC	0	transform a timestamp length coercion
+3944	SYS_PROC	0	transform a time length coercion
+1961	SYS_PROC	0	adjust timestamp precision
+1965	SYS_PROC	0	larger of two
+1966	SYS_PROC	0	smaller of two
+1967	SYS_PROC	0	adjust timestamptz precision
+1968	SYS_PROC	0	adjust time precision
+1969	SYS_PROC	0	adjust time with time zone precision
+2007	SYS_PROC	0	matches LIKE expression
+2008	SYS_PROC	0	does not match LIKE expression
+2009	SYS_PROC	0	convert LIKE pattern to use backslash escapes
+2010	SYS_PROC	0	octet length
+2012	SYS_PROC	0	extract portion of string
+2013	SYS_PROC	0	extract portion of string
+2085	SYS_PROC	0	extract portion of string
+2086	SYS_PROC	0	extract portion of string
+2014	SYS_PROC	0	position of substring
+2015	SYS_PROC	0	trim both ends of string
+2019	SYS_PROC	0	convert timestamp with time zone to time
+2020	SYS_PROC	0	truncate timestamp to specified units
+2021	SYS_PROC	0	extract field from timestamp
+2023	SYS_PROC	0	convert abstime to timestamp
+2024	SYS_PROC	0	convert date to timestamp
+2025	SYS_PROC	0	convert date and time to timestamp
+2027	SYS_PROC	0	convert timestamp with time zone to timestamp
+2028	SYS_PROC	0	convert timestamp to timestamp with time zone
+2029	SYS_PROC	0	convert timestamp to date
+2030	SYS_PROC	0	convert timestamp to abstime
+2035	SYS_PROC	0	smaller of two
+2036	SYS_PROC	0	larger of two
+2037	SYS_PROC	0	adjust time with time zone to new zone
+2038	SYS_PROC	0	adjust time with time zone to new zone
+2039	SYS_PROC	0	hash
+2041	SYS_PROC	0	intervals overlap?
+2042	SYS_PROC	0	intervals overlap?
+2043	SYS_PROC	0	intervals overlap?
+2044	SYS_PROC	0	intervals overlap?
+2045	SYS_PROC	0	less-equal-greater
+3137	SYS_PROC	0	sort support
+2046	SYS_PROC	0	convert time with time zone to time
+2047	SYS_PROC	0	convert time to time with time zone
+2048	SYS_PROC	0	finite timestamp?
+2049	SYS_PROC	0	format timestamp to text
+2058	SYS_PROC	0	date difference preserving months and years
+2059	SYS_PROC	0	date difference from today preserving months and years
+2069	SYS_PROC	0	adjust timestamp to new time zone
+2070	SYS_PROC	0	adjust timestamp to new time zone
+2073	SYS_PROC	0	extract text matching regular expression
+2074	SYS_PROC	0	extract text matching SQL99 regular expression
+2075	SYS_PROC	0	convert int8 to bitstring
+2076	SYS_PROC	0	convert bitstring to int8
+2077	SYS_PROC	0	SHOW X as a function
+3294	SYS_PROC	0	SHOW X as a function, optionally no error for missing variable
+2078	SYS_PROC	0	SET X as a function
+2084	SYS_PROC	0	SHOW ALL as a function
+3329	SYS_PROC	0	show config file settings
+1371	SYS_PROC	0	view system lock information
+2561	SYS_PROC	0	get array of PIDs of sessions blocking specified backend PID
+1065	SYS_PROC	0	view two-phase transactions
+3819	SYS_PROC	0	view members of a multixactid
+3581	SYS_PROC	0	get commit timestamp of a transaction
+3583	SYS_PROC	0	get transaction Id and commit timestamp of latest transaction commit
+3537	SYS_PROC	0	get identification of SQL object
+3839	SYS_PROC	0	get machine-parseable identification of SQL object
+3382	SYS_PROC	0	get identification of SQL object for sys_get_object_address()
+3954	SYS_PROC	0	get OID-based object address from name/args arrays
+2079	SYS_PROC	0	is table visible in search path?
+2080	SYS_PROC	0	is type visible in search path?
+2081	SYS_PROC	0	is function visible in search path?
+2082	SYS_PROC	0	is operator visible in search path?
+2083	SYS_PROC	0	is opclass visible in search path?
+3829	SYS_PROC	0	is opfamily visible in search path?
+2093	SYS_PROC	0	is conversion visible in search path?
+3756	SYS_PROC	0	is text search parser visible in search path?
+3757	SYS_PROC	0	is text search dictionary visible in search path?
+3768	SYS_PROC	0	is text search template visible in search path?
+3758	SYS_PROC	0	is text search configuration visible in search path?
+3815	SYS_PROC	0	is collation visible in search path?
+2854	SYS_PROC	0	get OID of current session's temp schema, if any
+2855	SYS_PROC	0	is schema another session's temp schema?
+2171	SYS_PROC	0	cancel a server process' current query
+2096	SYS_PROC	0	terminate a server process
+2172	SYS_PROC	0	prepare for taking an online backup
+2173	SYS_PROC	0	finish taking an online backup
+2739	SYS_PROC	0	finish taking an online backup
+3813	SYS_PROC	0	true if server is in online backup
+3814	SYS_PROC	0	start time of an online backup
+2848	SYS_PROC	0	switch to new xlog file
+3098	SYS_PROC	0	create a named restore point
+2849	SYS_PROC	0	current xlog write location
+2852	SYS_PROC	0	current xlog insert location
+3330	SYS_PROC	0	current xlog flush location
+2850	SYS_PROC	0	xlog filename and byte offset, given an xlog location
+2851	SYS_PROC	0	xlog filename, given an xlog location
+3165	SYS_PROC	0	difference in bytes, given two xlog locations
+3809	SYS_PROC	0	export a snapshot
+3810	SYS_PROC	0	true if server is in recovery
+3820	SYS_PROC	0	current xlog flush location
+3821	SYS_PROC	0	last xlog replay location
+3830	SYS_PROC	0	timestamp of last replay xact
+3071	SYS_PROC	0	pause xlog replay
+3072	SYS_PROC	0	resume xlog replay, if it was paused
+3073	SYS_PROC	0	true if xlog replay is paused
+2621	SYS_PROC	0	reload configuration files
+2622	SYS_PROC	0	rotate log file
+2623	SYS_PROC	0	get information about file
+3307	SYS_PROC	0	get information about file
+2624	SYS_PROC	0	read text from a file
+3293	SYS_PROC	0	read text from a file
+3826	SYS_PROC	0	read text from a file
+3827	SYS_PROC	0	read bytea from a file
+3295	SYS_PROC	0	read bytea from a file
+3828	SYS_PROC	0	read bytea from a file
+2625	SYS_PROC	0	list all files in a directory
+3297	SYS_PROC	0	list all files in a directory
+2626	SYS_PROC	0	sleep for the specified time in seconds
+3935	SYS_PROC	0	sleep for the specified interval
+3936	SYS_PROC	0	sleep until the specified time
+2971	SYS_PROC	0	convert boolean to text
+2100	SYS_PROC	0	the average (arithmetic mean) as numeric of all bigint values
+2101	SYS_PROC	0	the average (arithmetic mean) as numeric of all integer values
+2102	SYS_PROC	0	the average (arithmetic mean) as numeric of all smallint values
+2103	SYS_PROC	0	the average (arithmetic mean) as numeric of all numeric values
+2104	SYS_PROC	0	the average (arithmetic mean) as float8 of all float4 values
+2105	SYS_PROC	0	the average (arithmetic mean) as float8 of all float8 values
+2106	SYS_PROC	0	the average (arithmetic mean) as interval of all interval values
+2107	SYS_PROC	0	sum as numeric across all bigint input values
+2108	SYS_PROC	0	sum as bigint across all integer input values
+2109	SYS_PROC	0	sum as bigint across all smallint input values
+2110	SYS_PROC	0	sum as float4 across all float4 input values
+2111	SYS_PROC	0	sum as float8 across all float8 input values
+2112	SYS_PROC	0	sum as money across all money input values
+2113	SYS_PROC	0	sum as interval across all interval input values
+2114	SYS_PROC	0	sum as numeric across all numeric input values
+2115	SYS_PROC	0	maximum value of all bigint input values
+2116	SYS_PROC	0	maximum value of all integer input values
+2117	SYS_PROC	0	maximum value of all smallint input values
+2118	SYS_PROC	0	maximum value of all oid input values
+2119	SYS_PROC	0	maximum value of all float4 input values
+2120	SYS_PROC	0	maximum value of all float8 input values
+2121	SYS_PROC	0	maximum value of all abstime input values
+2122	SYS_PROC	0	maximum value of all date input values
+2123	SYS_PROC	0	maximum value of all time input values
+2124	SYS_PROC	0	maximum value of all time with time zone input values
+2125	SYS_PROC	0	maximum value of all money input values
+2126	SYS_PROC	0	maximum value of all timestamp input values
+2127	SYS_PROC	0	maximum value of all timestamp with time zone input values
+2128	SYS_PROC	0	maximum value of all interval input values
+2129	SYS_PROC	0	maximum value of all text input values
+2130	SYS_PROC	0	maximum value of all numeric input values
+2050	SYS_PROC	0	maximum value of all anyarray input values
+2244	SYS_PROC	0	maximum value of all bpchar input values
+2797	SYS_PROC	0	maximum value of all tid input values
+3564	SYS_PROC	0	maximum value of all inet input values
+2131	SYS_PROC	0	minimum value of all bigint input values
+2132	SYS_PROC	0	minimum value of all integer input values
+2133	SYS_PROC	0	minimum value of all smallint input values
+2134	SYS_PROC	0	minimum value of all oid input values
+2135	SYS_PROC	0	minimum value of all float4 input values
+2136	SYS_PROC	0	minimum value of all float8 input values
+2137	SYS_PROC	0	minimum value of all abstime input values
+2138	SYS_PROC	0	minimum value of all date input values
+2139	SYS_PROC	0	minimum value of all time input values
+2140	SYS_PROC	0	minimum value of all time with time zone input values
+2141	SYS_PROC	0	minimum value of all money input values
+2142	SYS_PROC	0	minimum value of all timestamp input values
+2143	SYS_PROC	0	minimum value of all timestamp with time zone input values
+2144	SYS_PROC	0	minimum value of all interval input values
+2145	SYS_PROC	0	minimum value of all text values
+2146	SYS_PROC	0	minimum value of all numeric input values
+2051	SYS_PROC	0	minimum value of all anyarray input values
+2245	SYS_PROC	0	minimum value of all bpchar input values
+2798	SYS_PROC	0	minimum value of all tid input values
+3565	SYS_PROC	0	minimum value of all inet input values
+2147	SYS_PROC	0	number of input rows for which the input expression is not null
+2803	SYS_PROC	0	number of input rows
+2718	SYS_PROC	0	population variance of bigint input values (square of the population standard deviation)
+2719	SYS_PROC	0	population variance of integer input values (square of the population standard deviation)
+2720	SYS_PROC	0	population variance of smallint input values (square of the population standard deviation)
+2721	SYS_PROC	0	population variance of float4 input values (square of the population standard deviation)
+2722	SYS_PROC	0	population variance of float8 input values (square of the population standard deviation)
+2723	SYS_PROC	0	population variance of numeric input values (square of the population standard deviation)
+2641	SYS_PROC	0	sample variance of bigint input values (square of the sample standard deviation)
+2642	SYS_PROC	0	sample variance of integer input values (square of the sample standard deviation)
+2643	SYS_PROC	0	sample variance of smallint input values (square of the sample standard deviation)
+2644	SYS_PROC	0	sample variance of float4 input values (square of the sample standard deviation)
+2645	SYS_PROC	0	sample variance of float8 input values (square of the sample standard deviation)
+2646	SYS_PROC	0	sample variance of numeric input values (square of the sample standard deviation)
+2148	SYS_PROC	0	historical alias for var_samp
+2149	SYS_PROC	0	historical alias for var_samp
+2150	SYS_PROC	0	historical alias for var_samp
+2151	SYS_PROC	0	historical alias for var_samp
+2152	SYS_PROC	0	historical alias for var_samp
+2153	SYS_PROC	0	historical alias for var_samp
+2724	SYS_PROC	0	population standard deviation of bigint input values
+2725	SYS_PROC	0	population standard deviation of integer input values
+2726	SYS_PROC	0	population standard deviation of smallint input values
+2727	SYS_PROC	0	population standard deviation of float4 input values
+2728	SYS_PROC	0	population standard deviation of float8 input values
+2729	SYS_PROC	0	population standard deviation of numeric input values
+2712	SYS_PROC	0	sample standard deviation of bigint input values
+2713	SYS_PROC	0	sample standard deviation of integer input values
+2714	SYS_PROC	0	sample standard deviation of smallint input values
+2715	SYS_PROC	0	sample standard deviation of float4 input values
+2716	SYS_PROC	0	sample standard deviation of float8 input values
+2717	SYS_PROC	0	sample standard deviation of numeric input values
+2154	SYS_PROC	0	historical alias for stddev_samp
+2155	SYS_PROC	0	historical alias for stddev_samp
+2156	SYS_PROC	0	historical alias for stddev_samp
+2157	SYS_PROC	0	historical alias for stddev_samp
+2158	SYS_PROC	0	historical alias for stddev_samp
+2159	SYS_PROC	0	historical alias for stddev_samp
+2818	SYS_PROC	0	number of input rows in which both expressions are not null
+2819	SYS_PROC	0	sum of squares of the independent variable (sum(X^2) - sum(X)^2/N)
+2820	SYS_PROC	0	sum of squares of the dependent variable (sum(Y^2) - sum(Y)^2/N)
+2821	SYS_PROC	0	sum of products of independent times dependent variable (sum(X*Y) - sum(X) * sum(Y)/N)
+2822	SYS_PROC	0	average of the independent variable (sum(X)/N)
+2823	SYS_PROC	0	average of the dependent variable (sum(Y)/N)
+2824	SYS_PROC	0	square of the correlation coefficient
+2825	SYS_PROC	0	slope of the least-squares-fit linear equation determined by the (X, Y) pairs
+2826	SYS_PROC	0	y-intercept of the least-squares-fit linear equation determined by the (X, Y) pairs
+2827	SYS_PROC	0	population covariance
+2828	SYS_PROC	0	sample covariance
+2829	SYS_PROC	0	correlation coefficient
+2166	SYS_PROC	0	less-equal-greater
+3332	SYS_PROC	0	sort support
+2180	SYS_PROC	0	less-equal-greater
+3333	SYS_PROC	0	sort support
+2188	SYS_PROC	0	less-equal-greater
+2189	SYS_PROC	0	less-equal-greater
+2190	SYS_PROC	0	less-equal-greater
+2191	SYS_PROC	0	less-equal-greater
+2192	SYS_PROC	0	less-equal-greater
+2193	SYS_PROC	0	less-equal-greater
+2194	SYS_PROC	0	less-equal-greater
+2195	SYS_PROC	0	less-equal-greater
+2212	SYS_PROC	0	I/O
+2213	SYS_PROC	0	I/O
+2214	SYS_PROC	0	I/O
+2215	SYS_PROC	0	I/O
+3492	SYS_PROC	0	convert operator name to regoper
+3476	SYS_PROC	0	convert operator name to regoperator
+2216	SYS_PROC	0	I/O
+2217	SYS_PROC	0	I/O
+2218	SYS_PROC	0	I/O
+2219	SYS_PROC	0	I/O
+3495	SYS_PROC	0	convert classname to regclass
+2220	SYS_PROC	0	I/O
+2221	SYS_PROC	0	I/O
+3493	SYS_PROC	0	convert type name to regtype
+1079	SYS_PROC	0	convert text to regclass
+4098	SYS_PROC	0	I/O
+4092	SYS_PROC	0	I/O
+4093	SYS_PROC	0	convert role name to regrole
+4084	SYS_PROC	0	I/O
+4085	SYS_PROC	0	I/O
+4086	SYS_PROC	0	convert namespace name to regnamespace
+1268	SYS_PROC	0	parse qualified identifier to array of identifiers
+2246	SYS_PROC	0	(internal)
+2247	SYS_PROC	0	(internal)
+2248	SYS_PROC	0	(internal)
+2250	SYS_PROC	0	user privilege on database by username, database name
+2251	SYS_PROC	0	user privilege on database by username, database oid
+2252	SYS_PROC	0	user privilege on database by user oid, database name
+2253	SYS_PROC	0	user privilege on database by user oid, database oid
+2254	SYS_PROC	0	current user privilege on database by database name
+2255	SYS_PROC	0	current user privilege on database by database oid
+2256	SYS_PROC	0	user privilege on function by username, function name
+2257	SYS_PROC	0	user privilege on function by username, function oid
+2258	SYS_PROC	0	user privilege on function by user oid, function name
+2259	SYS_PROC	0	user privilege on function by user oid, function oid
+2260	SYS_PROC	0	current user privilege on function by function name
+2261	SYS_PROC	0	current user privilege on function by function oid
+2262	SYS_PROC	0	user privilege on language by username, language name
+2263	SYS_PROC	0	user privilege on language by username, language oid
+2264	SYS_PROC	0	user privilege on language by user oid, language name
+2265	SYS_PROC	0	user privilege on language by user oid, language oid
+2266	SYS_PROC	0	current user privilege on language by language name
+2267	SYS_PROC	0	current user privilege on language by language oid
+2268	SYS_PROC	0	user privilege on schema by username, schema name
+2269	SYS_PROC	0	user privilege on schema by username, schema oid
+2270	SYS_PROC	0	user privilege on schema by user oid, schema name
+2271	SYS_PROC	0	user privilege on schema by user oid, schema oid
+2272	SYS_PROC	0	current user privilege on schema by schema name
+2273	SYS_PROC	0	current user privilege on schema by schema oid
+2390	SYS_PROC	0	user privilege on tablespace by username, tablespace name
+2391	SYS_PROC	0	user privilege on tablespace by username, tablespace oid
+2392	SYS_PROC	0	user privilege on tablespace by user oid, tablespace name
+2393	SYS_PROC	0	user privilege on tablespace by user oid, tablespace oid
+2394	SYS_PROC	0	current user privilege on tablespace by tablespace name
+2395	SYS_PROC	0	current user privilege on tablespace by tablespace oid
+3000	SYS_PROC	0	user privilege on foreign data wrapper by username, foreign data wrapper name
+3001	SYS_PROC	0	user privilege on foreign data wrapper by username, foreign data wrapper oid
+3002	SYS_PROC	0	user privilege on foreign data wrapper by user oid, foreign data wrapper name
+3003	SYS_PROC	0	user privilege on foreign data wrapper by user oid, foreign data wrapper oid
+3004	SYS_PROC	0	current user privilege on foreign data wrapper by foreign data wrapper name
+3005	SYS_PROC	0	current user privilege on foreign data wrapper by foreign data wrapper oid
+3006	SYS_PROC	0	user privilege on server by username, server name
+3007	SYS_PROC	0	user privilege on server by username, server oid
+3008	SYS_PROC	0	user privilege on server by user oid, server name
+3009	SYS_PROC	0	user privilege on server by user oid, server oid
+3010	SYS_PROC	0	current user privilege on server by server name
+3011	SYS_PROC	0	current user privilege on server by server oid
+3138	SYS_PROC	0	user privilege on type by username, type name
+3139	SYS_PROC	0	user privilege on type by username, type oid
+3140	SYS_PROC	0	user privilege on type by user oid, type name
+3141	SYS_PROC	0	user privilege on type by user oid, type oid
+3142	SYS_PROC	0	current user privilege on type by type name
+3143	SYS_PROC	0	current user privilege on type by type oid
+2705	SYS_PROC	0	user privilege on role by username, role name
+2706	SYS_PROC	0	user privilege on role by username, role oid
+2707	SYS_PROC	0	user privilege on role by user oid, role name
+2708	SYS_PROC	0	user privilege on role by user oid, role oid
+2709	SYS_PROC	0	current user privilege on role by role name
+2710	SYS_PROC	0	current user privilege on role by role oid
+1269	SYS_PROC	0	bytes required to store the value, perhaps with compression
+2322	SYS_PROC	0	total disk space usage for the specified tablespace
+2323	SYS_PROC	0	total disk space usage for the specified tablespace
+2324	SYS_PROC	0	total disk space usage for the specified database
+2168	SYS_PROC	0	total disk space usage for the specified database
+2325	SYS_PROC	0	disk space usage for the main fork of the specified table or index
+2332	SYS_PROC	0	disk space usage for the specified fork of a table or index
+2286	SYS_PROC	0	total disk space usage for the specified table and associated indexes
+2288	SYS_PROC	0	convert a long int to a human readable text using size units
+3166	SYS_PROC	0	convert a numeric to a human readable text using size units
+3334	SYS_PROC	0	convert a size in human-readable format with size units into bytes
+2997	SYS_PROC	0	disk space usage for the specified table, including TOAST, free space and visibility map
+2998	SYS_PROC	0	disk space usage for all indexes attached to the specified table
+2999	SYS_PROC	0	filenode identifier of relation
+3454	SYS_PROC	0	relation OID for filenode and tablespace
+3034	SYS_PROC	0	file path of relation
+2316	SYS_PROC	0	(internal)
+2290	SYS_PROC	0	I/O
+2291	SYS_PROC	0	I/O
+2292	SYS_PROC	0	I/O
+2293	SYS_PROC	0	I/O
+2294	SYS_PROC	0	I/O
+2295	SYS_PROC	0	I/O
+2296	SYS_PROC	0	I/O
+2297	SYS_PROC	0	I/O
+2298	SYS_PROC	0	I/O
+2299	SYS_PROC	0	I/O
+2300	SYS_PROC	0	I/O
+2301	SYS_PROC	0	I/O
+3594	SYS_PROC	0	I/O
+3595	SYS_PROC	0	I/O
+2302	SYS_PROC	0	I/O
+2303	SYS_PROC	0	I/O
+2304	SYS_PROC	0	I/O
+2305	SYS_PROC	0	I/O
+2306	SYS_PROC	0	I/O
+2307	SYS_PROC	0	I/O
+2312	SYS_PROC	0	I/O
+2313	SYS_PROC	0	I/O
+2398	SYS_PROC	0	I/O
+2399	SYS_PROC	0	I/O
+2597	SYS_PROC	0	I/O
+2598	SYS_PROC	0	I/O
+2777	SYS_PROC	0	I/O
+2778	SYS_PROC	0	I/O
+3116	SYS_PROC	0	I/O
+3117	SYS_PROC	0	I/O
+326	SYS_PROC	0	I/O
+327	SYS_PROC	0	I/O
+3311	SYS_PROC	0	I/O
+3312	SYS_PROC	0	I/O
+3313	SYS_PROC	0	BERNOULLI tablesample method handler
+3314	SYS_PROC	0	SYSTEM tablesample method handler
+2311	SYS_PROC	0	MD5 hash
+2321	SYS_PROC	0	MD5 hash
+2344	SYS_PROC	0	less-equal-greater
+2357	SYS_PROC	0	less-equal-greater
+2370	SYS_PROC	0	less-equal-greater
+2383	SYS_PROC	0	less-equal-greater
+2526	SYS_PROC	0	less-equal-greater
+2533	SYS_PROC	0	less-equal-greater
+2400	SYS_PROC	0	I/O
+2401	SYS_PROC	0	I/O
+2402	SYS_PROC	0	I/O
+2403	SYS_PROC	0	I/O
+2404	SYS_PROC	0	I/O
+2405	SYS_PROC	0	I/O
+2406	SYS_PROC	0	I/O
+2407	SYS_PROC	0	I/O
+2408	SYS_PROC	0	I/O
+2409	SYS_PROC	0	I/O
+2410	SYS_PROC	0	I/O
+2411	SYS_PROC	0	I/O
+2412	SYS_PROC	0	I/O
+2413	SYS_PROC	0	I/O
+2414	SYS_PROC	0	I/O
+2415	SYS_PROC	0	I/O
+2416	SYS_PROC	0	I/O
+2417	SYS_PROC	0	I/O
+2418	SYS_PROC	0	I/O
+2419	SYS_PROC	0	I/O
+2420	SYS_PROC	0	I/O
+2421	SYS_PROC	0	I/O
+2422	SYS_PROC	0	I/O
+2423	SYS_PROC	0	I/O
+2424	SYS_PROC	0	I/O
+2425	SYS_PROC	0	I/O
+2426	SYS_PROC	0	I/O
+2427	SYS_PROC	0	I/O
+2428	SYS_PROC	0	I/O
+2429	SYS_PROC	0	I/O
+2430	SYS_PROC	0	I/O
+2431	SYS_PROC	0	I/O
+2432	SYS_PROC	0	I/O
+2433	SYS_PROC	0	I/O
+2434	SYS_PROC	0	I/O
+2435	SYS_PROC	0	I/O
+2436	SYS_PROC	0	I/O
+2437	SYS_PROC	0	I/O
+2438	SYS_PROC	0	I/O
+2439	SYS_PROC	0	I/O
+2440	SYS_PROC	0	I/O
+2441	SYS_PROC	0	I/O
+2442	SYS_PROC	0	I/O
+2443	SYS_PROC	0	I/O
+2444	SYS_PROC	0	I/O
+2445	SYS_PROC	0	I/O
+2446	SYS_PROC	0	I/O
+2447	SYS_PROC	0	I/O
+2448	SYS_PROC	0	I/O
+2449	SYS_PROC	0	I/O
+2450	SYS_PROC	0	I/O
+2451	SYS_PROC	0	I/O
+2452	SYS_PROC	0	I/O
+2453	SYS_PROC	0	I/O
+2454	SYS_PROC	0	I/O
+2455	SYS_PROC	0	I/O
+4094	SYS_PROC	0	I/O
+4095	SYS_PROC	0	I/O
+4087	SYS_PROC	0	I/O
+4088	SYS_PROC	0	I/O
+2456	SYS_PROC	0	I/O
+2457	SYS_PROC	0	I/O
+2458	SYS_PROC	0	I/O
+2459	SYS_PROC	0	I/O
+2460	SYS_PROC	0	I/O
+2461	SYS_PROC	0	I/O
+2462	SYS_PROC	0	I/O
+2463	SYS_PROC	0	I/O
+2464	SYS_PROC	0	I/O
+2465	SYS_PROC	0	I/O
+2466	SYS_PROC	0	I/O
+2467	SYS_PROC	0	I/O
+2468	SYS_PROC	0	I/O
+2469	SYS_PROC	0	I/O
+2470	SYS_PROC	0	I/O
+2471	SYS_PROC	0	I/O
+2472	SYS_PROC	0	I/O
+2473	SYS_PROC	0	I/O
+2474	SYS_PROC	0	I/O
+2475	SYS_PROC	0	I/O
+2476	SYS_PROC	0	I/O
+2477	SYS_PROC	0	I/O
+2478	SYS_PROC	0	I/O
+2479	SYS_PROC	0	I/O
+2480	SYS_PROC	0	I/O
+2481	SYS_PROC	0	I/O
+2482	SYS_PROC	0	I/O
+2483	SYS_PROC	0	I/O
+2484	SYS_PROC	0	I/O
+2485	SYS_PROC	0	I/O
+2486	SYS_PROC	0	I/O
+2487	SYS_PROC	0	I/O
+2488	SYS_PROC	0	I/O
+2489	SYS_PROC	0	I/O
+2490	SYS_PROC	0	I/O
+2491	SYS_PROC	0	I/O
+2492	SYS_PROC	0	I/O
+2493	SYS_PROC	0	I/O
+2494	SYS_PROC	0	I/O
+2495	SYS_PROC	0	I/O
+2496	SYS_PROC	0	I/O
+2497	SYS_PROC	0	I/O
+2498	SYS_PROC	0	I/O
+2499	SYS_PROC	0	I/O
+2500	SYS_PROC	0	I/O
+2501	SYS_PROC	0	I/O
+2502	SYS_PROC	0	I/O
+2503	SYS_PROC	0	I/O
+3120	SYS_PROC	0	I/O
+3121	SYS_PROC	0	I/O
+2504	SYS_PROC	0	source text of a rule with pretty-print option
+2505	SYS_PROC	0	select statement of a view with pretty-print option
+2506	SYS_PROC	0	select statement of a view with pretty-print option
+3159	SYS_PROC	0	select statement of a view with pretty-printing and specified line wrapping
+2507	SYS_PROC	0	index description (full create statement or single expression) with pretty-print option
+2508	SYS_PROC	0	constraint description with pretty-print option
+2509	SYS_PROC	0	deparse an encoded expression with pretty-print option
+2510	SYS_PROC	0	get the prepared statements for this session
+2511	SYS_PROC	0	get the open cursors for this session
+2599	SYS_PROC	0	get the available time zone abbreviations
+2856	SYS_PROC	0	get the available time zone names
+2730	SYS_PROC	0	trigger description with pretty-print option
+3035	SYS_PROC	0	get the channels that the current backend listens to
+3036	SYS_PROC	0	send a notification event
+3296	SYS_PROC	0	get the fraction of the asynchronous notification queue currently in use
+1066	SYS_PROC	0	non-persistent series generator
+1067	SYS_PROC	0	non-persistent series generator
+1068	SYS_PROC	0	non-persistent series generator
+1069	SYS_PROC	0	non-persistent series generator
+3259	SYS_PROC	0	non-persistent series generator
+3260	SYS_PROC	0	non-persistent series generator
+938	SYS_PROC	0	non-persistent series generator
+939	SYS_PROC	0	non-persistent series generator
+2515	SYS_PROC	0	aggregate transition function
+2516	SYS_PROC	0	aggregate transition function
+3496	SYS_PROC	0	aggregate transition function
+3497	SYS_PROC	0	aggregate transition function
+3498	SYS_PROC	0	aggregate final function
+3499	SYS_PROC	0	aggregate final function
+2517	SYS_PROC	0	boolean-and aggregate
+2518	SYS_PROC	0	boolean-or aggregate
+2519	SYS_PROC	0	boolean-and aggregate
+2236	SYS_PROC	0	bitwise-and smallint aggregate
+2237	SYS_PROC	0	bitwise-or smallint aggregate
+2238	SYS_PROC	0	bitwise-and integer aggregate
+2239	SYS_PROC	0	bitwise-or integer aggregate
+2240	SYS_PROC	0	bitwise-and bigint aggregate
+2241	SYS_PROC	0	bitwise-or bigint aggregate
+2242	SYS_PROC	0	bitwise-and bit aggregate
+2243	SYS_PROC	0	bitwise-or bit aggregate
+2556	SYS_PROC	0	get OIDs of databases in a tablespace
+2557	SYS_PROC	0	convert int4 to boolean
+2558	SYS_PROC	0	convert boolean to int4
+2559	SYS_PROC	0	current value from last used sequence
+2560	SYS_PROC	0	kingbase start time
+2034	SYS_PROC	0	configuration load time
+2578	SYS_PROC	0	GiST support
+2579	SYS_PROC	0	GiST support
+2580	SYS_PROC	0	GiST support
+3281	SYS_PROC	0	GiST support
+2581	SYS_PROC	0	GiST support
+2582	SYS_PROC	0	GiST support
+2583	SYS_PROC	0	GiST support
+2584	SYS_PROC	0	GiST support
+2585	SYS_PROC	0	GiST support
+2586	SYS_PROC	0	GiST support
+2591	SYS_PROC	0	GiST support
+2592	SYS_PROC	0	GiST support
+1030	SYS_PROC	0	GiST support
+3282	SYS_PROC	0	GiST support
+2179	SYS_PROC	0	GiST support
+3064	SYS_PROC	0	GiST support
+3280	SYS_PROC	0	GiST support
+3288	SYS_PROC	0	GiST support
+2743	SYS_PROC	0	GIN array support
+2774	SYS_PROC	0	GIN array support
+2744	SYS_PROC	0	GIN array support
+3920	SYS_PROC	0	GIN array support
+3076	SYS_PROC	0	GIN array support (obsolete)
+3383	SYS_PROC	0	BRIN minmax support
+3384	SYS_PROC	0	BRIN minmax support
+3385	SYS_PROC	0	BRIN minmax support
+3386	SYS_PROC	0	BRIN minmax support
+4105	SYS_PROC	0	BRIN inclusion support
+4106	SYS_PROC	0	BRIN inclusion support
+4107	SYS_PROC	0	BRIN inclusion support
+4108	SYS_PROC	0	BRIN inclusion support
+2880	SYS_PROC	0	obtain exclusive advisory lock
+3089	SYS_PROC	0	obtain exclusive advisory lock
+2881	SYS_PROC	0	obtain shared advisory lock
+3090	SYS_PROC	0	obtain shared advisory lock
+2882	SYS_PROC	0	obtain exclusive advisory lock if available
+3091	SYS_PROC	0	obtain exclusive advisory lock if available
+2883	SYS_PROC	0	obtain shared advisory lock if available
+3092	SYS_PROC	0	obtain shared advisory lock if available
+2884	SYS_PROC	0	release exclusive advisory lock
+2885	SYS_PROC	0	release shared advisory lock
+2886	SYS_PROC	0	obtain exclusive advisory lock
+3093	SYS_PROC	0	obtain exclusive advisory lock
+2887	SYS_PROC	0	obtain shared advisory lock
+3094	SYS_PROC	0	obtain shared advisory lock
+2888	SYS_PROC	0	obtain exclusive advisory lock if available
+3095	SYS_PROC	0	obtain exclusive advisory lock if available
+2889	SYS_PROC	0	obtain shared advisory lock if available
+3096	SYS_PROC	0	obtain shared advisory lock if available
+2890	SYS_PROC	0	release exclusive advisory lock
+2891	SYS_PROC	0	release shared advisory lock
+2892	SYS_PROC	0	release all advisory locks
+2893	SYS_PROC	0	I/O
+2894	SYS_PROC	0	I/O
+2895	SYS_PROC	0	generate XML comment
+2896	SYS_PROC	0	perform a non-validating parse of a character string to produce an XML value
+2897	SYS_PROC	0	validate an XML value
+2898	SYS_PROC	0	I/O
+2899	SYS_PROC	0	I/O
+2900	SYS_PROC	0	aggregate transition function
+2901	SYS_PROC	0	concatenate XML values
+2922	SYS_PROC	0	serialize an XML value to a character string
+2923	SYS_PROC	0	map table contents to XML
+2924	SYS_PROC	0	map query result to XML
+2925	SYS_PROC	0	map rows from cursor to XML
+2926	SYS_PROC	0	map table structure to XML Schema
+2927	SYS_PROC	0	map query result structure to XML Schema
+2928	SYS_PROC	0	map cursor structure to XML Schema
+2929	SYS_PROC	0	map table contents and structure to XML and XML Schema
+2930	SYS_PROC	0	map query result and structure to XML and XML Schema
+2933	SYS_PROC	0	map schema contents to XML
+2934	SYS_PROC	0	map schema structure to XML Schema
+2935	SYS_PROC	0	map schema contents and structure to XML and XML Schema
+2936	SYS_PROC	0	map database contents to XML
+2937	SYS_PROC	0	map database structure to XML Schema
+2938	SYS_PROC	0	map database contents and structure to XML and XML Schema
+2931	SYS_PROC	0	evaluate XPath expression, with namespaces support
+2932	SYS_PROC	0	evaluate XPath expression
+8276	SYS_PROC	0	extract xml value, with namespaces support
+8277	SYS_PROC	0	extract xml value
+2614	SYS_PROC	0	test XML value against XPath expression
+3365	SYS_PROC	0	test XML value against XPath expression
+3049	SYS_PROC	0	test XML value against XPath expression, with namespace support
+3050	SYS_PROC	0	test XML value against XPath expression
+3366	SYS_PROC	0	test XML append a child node by an XPath expression
+3367	SYS_PROC	0	test XML append a child node with default by an XPath expression
+3368	SYS_PROC	0	evaluate XPath expression, with namespaces support
+3369	SYS_PROC	0	evaluate XPath expression
+3370	SYS_PROC	0	evaluate XPath expression
+3373	SYS_PROC	0	evaluate XPath expression, with namespaces support
+3374	SYS_PROC	0	evaluate XPath expression
+3375	SYS_PROC	0	evaluate XPath expression, with namespaces support
+3376	SYS_PROC	0	evaluate XPath expression
+3377	SYS_PROC	0	test XML append a child node by an XPath expression
+3378	SYS_PROC	0	test XML append a child node with default by an XPath expression
+3379	SYS_PROC	0	test XML append a child node by an XPath expression
+3380	SYS_PROC	0	test XML append a child node with default by an XPath expression
+3397	SYS_PROC	0	test XML append a child node by an XPath expression
+3398	SYS_PROC	0	test XML append a child node with default by an XPath expression
+4005	SYS_PROC	0	test XML delete an XML element
+4006	SYS_PROC	0	test XML delete an XML element with default
+3051	SYS_PROC	0	determine if a string is well formed XML
+3052	SYS_PROC	0	determine if a string is well formed XML document
+3053	SYS_PROC	0	determine if a string is well formed XML content
+321	SYS_PROC	0	I/O
+322	SYS_PROC	0	I/O
+323	SYS_PROC	0	I/O
+324	SYS_PROC	0	I/O
+3153	SYS_PROC	0	map array to json
+3154	SYS_PROC	0	map array to json with optional pretty printing
+3155	SYS_PROC	0	map row to json
+3156	SYS_PROC	0	map row to json with optional pretty printing
+3173	SYS_PROC	0	json aggregate transition function
+3174	SYS_PROC	0	json aggregate final function
+3175	SYS_PROC	0	aggregate input into json
+3180	SYS_PROC	0	json object aggregate transition function
+3196	SYS_PROC	0	json object aggregate final function
+3197	SYS_PROC	0	aggregate input into a json object
+3198	SYS_PROC	0	build a json array from any inputs
+3199	SYS_PROC	0	build an empty json array
+3200	SYS_PROC	0	build a json object from pairwise key/value inputs
+3201	SYS_PROC	0	build an empty json object
+3202	SYS_PROC	0	map text array of key value pairs to json object
+3203	SYS_PROC	0	map text arrays of keys and values to json object
+3176	SYS_PROC	0	map input to json
+3261	SYS_PROC	0	remove object fields with null values from json
+3951	SYS_PROC	0	get value from json with path elements
+3953	SYS_PROC	0	get value from json as text with path elements
+3955	SYS_PROC	0	key value pairs of a json object
+3969	SYS_PROC	0	elements of json array
+3956	SYS_PROC	0	length of json array
+3957	SYS_PROC	0	get json object keys
+3958	SYS_PROC	0	key value pairs of a json object
+3959	SYS_PROC	0	key value pairs of a json object
+3960	SYS_PROC	0	get record fields from a json object
+3961	SYS_PROC	0	get set of records with fields from a json array of objects
+3204	SYS_PROC	0	get record fields from a json object
+3205	SYS_PROC	0	get set of records with fields from a json array of objects
+3968	SYS_PROC	0	get the type of a json value
+2952	SYS_PROC	0	I/O
+2953	SYS_PROC	0	I/O
+2960	SYS_PROC	0	less-equal-greater
+3300	SYS_PROC	0	sort support
+2961	SYS_PROC	0	I/O
+2962	SYS_PROC	0	I/O
+2963	SYS_PROC	0	hash
+3229	SYS_PROC	0	I/O
+3230	SYS_PROC	0	I/O
+3238	SYS_PROC	0	I/O
+3239	SYS_PROC	0	I/O
+3251	SYS_PROC	0	less-equal-greater
+3252	SYS_PROC	0	hash
+3504	SYS_PROC	0	I/O
+3505	SYS_PROC	0	I/O
+3506	SYS_PROC	0	I/O
+3507	SYS_PROC	0	I/O
+3514	SYS_PROC	0	less-equal-greater
+3515	SYS_PROC	0	hash
+3524	SYS_PROC	0	smaller of two
+3525	SYS_PROC	0	larger of two
+3526	SYS_PROC	0	maximum value of all enum input values
+3527	SYS_PROC	0	minimum value of all enum input values
+3528	SYS_PROC	0	first value of the input enum type
+3529	SYS_PROC	0	last value of the input enum type
+3530	SYS_PROC	0	range between the two given enum values, as an ordered array
+3531	SYS_PROC	0	range of the given enum type, as an ordered array
+3532	SYS_PROC	0	I/O
+3533	SYS_PROC	0	I/O
+3610	SYS_PROC	0	I/O
+3639	SYS_PROC	0	I/O
+3611	SYS_PROC	0	I/O
+3638	SYS_PROC	0	I/O
+3612	SYS_PROC	0	I/O
+3641	SYS_PROC	0	I/O
+3613	SYS_PROC	0	I/O
+3640	SYS_PROC	0	I/O
+3646	SYS_PROC	0	I/O
+3647	SYS_PROC	0	I/O
+3622	SYS_PROC	0	less-equal-greater
+3711	SYS_PROC	0	number of lexemes
+3623	SYS_PROC	0	strip position information
+3624	SYS_PROC	0	set given weight for whole tsvector
+3320	SYS_PROC	0	set given weight for given lexemes
+3321	SYS_PROC	0	delete lexeme
+3323	SYS_PROC	0	delete given lexemes
+3322	SYS_PROC	0	expand tsvector to set of rows
+3326	SYS_PROC	0	convert tsvector to array of lexemes
+3327	SYS_PROC	0	build tsvector from array of lexemes
+3319	SYS_PROC	0	delete lexemes that do not have one of the given weights
+3648	SYS_PROC	0	GiST tsvector support
+3649	SYS_PROC	0	GiST tsvector support
+3650	SYS_PROC	0	GiST tsvector support
+3651	SYS_PROC	0	GiST tsvector support
+3652	SYS_PROC	0	GiST tsvector support
+3653	SYS_PROC	0	GiST tsvector support
+3654	SYS_PROC	0	GiST tsvector support
+3790	SYS_PROC	0	GiST tsvector support (obsolete)
+3656	SYS_PROC	0	GIN tsvector support
+3657	SYS_PROC	0	GIN tsvector support
+3658	SYS_PROC	0	GIN tsvector support
+3921	SYS_PROC	0	GIN tsvector support
+3724	SYS_PROC	0	GIN tsvector support
+2700	SYS_PROC	0	GIN tsvector support
+3077	SYS_PROC	0	GIN tsvector support (obsolete)
+3087	SYS_PROC	0	GIN tsvector support (obsolete)
+3088	SYS_PROC	0	GIN tsvector support (obsolete)
+3791	SYS_PROC	0	GIN tsvector support (obsolete)
+3792	SYS_PROC	0	GIN tsvector support (obsolete)
+3789	SYS_PROC	0	clean up GIN pending list
+3668	SYS_PROC	0	less-equal-greater
+5004	SYS_PROC	0	phrase-concatenate with distance
+3672	SYS_PROC	0	number of nodes
+3673	SYS_PROC	0	show real useful query for GiST index
+3684	SYS_PROC	0	rewrite tsquery
+3685	SYS_PROC	0	rewrite tsquery
+3695	SYS_PROC	0	GiST tsquery support
+3696	SYS_PROC	0	GiST tsquery support
+3697	SYS_PROC	0	GiST tsquery support
+3698	SYS_PROC	0	GiST tsquery support
+3699	SYS_PROC	0	GiST tsquery support
+3700	SYS_PROC	0	GiST tsquery support
+3701	SYS_PROC	0	GiST tsquery support
+3793	SYS_PROC	0	GiST tsquery support (obsolete)
+3686	SYS_PROC	0	restriction selectivity of tsvector @@ tsquery
+3687	SYS_PROC	0	join selectivity of tsvector @@ tsquery
+3688	SYS_PROC	0	tsvector typanalyze
+3689	SYS_PROC	0	statistics of tsvector column
+3690	SYS_PROC	0	statistics of tsvector column
+3703	SYS_PROC	0	relevance
+3704	SYS_PROC	0	relevance
+3705	SYS_PROC	0	relevance
+3706	SYS_PROC	0	relevance
+3707	SYS_PROC	0	relevance
+3708	SYS_PROC	0	relevance
+3709	SYS_PROC	0	relevance
+3710	SYS_PROC	0	relevance
+3713	SYS_PROC	0	get parser's token types
+3714	SYS_PROC	0	get parser's token types
+3715	SYS_PROC	0	parse text to tokens
+3716	SYS_PROC	0	parse text to tokens
+3717	SYS_PROC	0	(internal)
+3718	SYS_PROC	0	(internal)
+3719	SYS_PROC	0	(internal)
+3720	SYS_PROC	0	(internal)
+3721	SYS_PROC	0	(internal)
+3723	SYS_PROC	0	normalize one word by dictionary
+3725	SYS_PROC	0	(internal)
+3726	SYS_PROC	0	(internal)
+3728	SYS_PROC	0	(internal)
+3729	SYS_PROC	0	(internal)
+3731	SYS_PROC	0	(internal)
+3732	SYS_PROC	0	(internal)
+3740	SYS_PROC	0	(internal)
+3741	SYS_PROC	0	(internal)
+3743	SYS_PROC	0	generate headline
+3744	SYS_PROC	0	generate headline
+3754	SYS_PROC	0	generate headline
+3755	SYS_PROC	0	generate headline
+3745	SYS_PROC	0	transform to tsvector
+3746	SYS_PROC	0	make tsquery
+3747	SYS_PROC	0	transform to tsquery
+5006	SYS_PROC	0	transform to tsquery
+3749	SYS_PROC	0	transform to tsvector
+3750	SYS_PROC	0	make tsquery
+3751	SYS_PROC	0	transform to tsquery
+5001	SYS_PROC	0	transform to tsquery
+3752	SYS_PROC	0	trigger for automatic update of tsvector column
+3753	SYS_PROC	0	trigger for automatic update of tsvector column
+3759	SYS_PROC	0	get current tsearch configuration
+3736	SYS_PROC	0	I/O
+3737	SYS_PROC	0	I/O
+3738	SYS_PROC	0	I/O
+3739	SYS_PROC	0	I/O
+3771	SYS_PROC	0	I/O
+3772	SYS_PROC	0	I/O
+3773	SYS_PROC	0	I/O
+3774	SYS_PROC	0	I/O
+3806	SYS_PROC	0	I/O
+3805	SYS_PROC	0	I/O
+3804	SYS_PROC	0	I/O
+3803	SYS_PROC	0	I/O
+3263	SYS_PROC	0	map text array of key value pairs to jsonb object
+3264	SYS_PROC	0	map text array of key value pairs to jsonb object
+3787	SYS_PROC	0	map input to jsonb
+3265	SYS_PROC	0	jsonb aggregate transition function
+3266	SYS_PROC	0	jsonb aggregate final function
+3267	SYS_PROC	0	aggregate input into jsonb
+3268	SYS_PROC	0	jsonb object aggregate transition function
+3269	SYS_PROC	0	jsonb object aggregate final function
+3270	SYS_PROC	0	aggregate inputs into jsonb object
+3271	SYS_PROC	0	build a jsonb array from any inputs
+3272	SYS_PROC	0	build an empty jsonb array
+3273	SYS_PROC	0	build a jsonb object from pairwise key/value inputs
+3274	SYS_PROC	0	build an empty jsonb object
+3262	SYS_PROC	0	remove object fields with null values from jsonb
+3217	SYS_PROC	0	get value from jsonb with path elements
+3940	SYS_PROC	0	get value from jsonb as text with path elements
+3219	SYS_PROC	0	elements of a jsonb array
+3465	SYS_PROC	0	elements of jsonb array
+3207	SYS_PROC	0	length of jsonb array
+3931	SYS_PROC	0	get jsonb object keys
+3208	SYS_PROC	0	key value pairs of a jsonb object
+3932	SYS_PROC	0	key value pairs of a jsonb object
+3209	SYS_PROC	0	get record fields from a jsonb object
+3475	SYS_PROC	0	get set of records with fields from a jsonb array of objects
+3490	SYS_PROC	0	get record fields from a jsonb object
+3491	SYS_PROC	0	get set of records with fields from a jsonb array of objects
+3210	SYS_PROC	0	get the type of a jsonb value
+4044	SYS_PROC	0	less-equal-greater
+4045	SYS_PROC	0	hash
+3480	SYS_PROC	0	GIN support
+3482	SYS_PROC	0	GIN support
+3483	SYS_PROC	0	GIN support
+3484	SYS_PROC	0	GIN support
+3488	SYS_PROC	0	GIN support
+3485	SYS_PROC	0	GIN support
+3486	SYS_PROC	0	GIN support
+3487	SYS_PROC	0	GIN support
+3489	SYS_PROC	0	GIN support
+3305	SYS_PROC	0	Set part of a jsonb
+3306	SYS_PROC	0	Indented text from jsonb
+3579	SYS_PROC	0	Insert value into a jsonb
+2939	SYS_PROC	0	I/O
+2940	SYS_PROC	0	I/O
+2941	SYS_PROC	0	I/O
+2942	SYS_PROC	0	I/O
+2943	SYS_PROC	0	get current transaction ID
+2944	SYS_PROC	0	get current snapshot
+2945	SYS_PROC	0	get xmin of snapshot
+2946	SYS_PROC	0	get xmax of snapshot
+2947	SYS_PROC	0	get set of in-progress txids in snapshot
+2948	SYS_PROC	0	is txid visible in snapshot?
+2987	SYS_PROC	0	less-equal-greater
+3187	SYS_PROC	0	less-equal-greater based on byte images
+3082	SYS_PROC	0	list available extensions
+3083	SYS_PROC	0	list available extension versions
+3084	SYS_PROC	0	list an extension's version update paths
+3086	SYS_PROC	0	flag an extension's table contents to be emitted by sys_dump
+3100	SYS_PROC	0	row number within partition
+3101	SYS_PROC	0	integer rank with gaps
+3102	SYS_PROC	0	integer rank without gaps
+3103	SYS_PROC	0	fractional rank within partition
+3104	SYS_PROC	0	fractional row number within partition
+3105	SYS_PROC	0	split rows into N groups
+3106	SYS_PROC	0	fetch the preceding row value
+3107	SYS_PROC	0	fetch the Nth preceding row value
+3108	SYS_PROC	0	fetch the Nth preceding row value with default
+3109	SYS_PROC	0	fetch the following row value
+3110	SYS_PROC	0	fetch the Nth following row value
+3111	SYS_PROC	0	fetch the Nth following row value with default
+3112	SYS_PROC	0	fetch the first row value
+3113	SYS_PROC	0	fetch the last row value
+3114	SYS_PROC	0	fetch the Nth row value
+3832	SYS_PROC	0	I/O
+3833	SYS_PROC	0	I/O
+3834	SYS_PROC	0	I/O
+3835	SYS_PROC	0	I/O
+3836	SYS_PROC	0	I/O
+3837	SYS_PROC	0	I/O
+3848	SYS_PROC	0	lower bound of range
+3849	SYS_PROC	0	upper bound of range
+3850	SYS_PROC	0	is the range empty?
+3851	SYS_PROC	0	is the range's lower bound inclusive?
+3852	SYS_PROC	0	is the range's upper bound inclusive?
+3853	SYS_PROC	0	is the range's lower bound infinite?
+3854	SYS_PROC	0	is the range's upper bound infinite?
+4057	SYS_PROC	0	the smallest range which includes both of the given ranges
+3870	SYS_PROC	0	less-equal-greater
+3875	SYS_PROC	0	GiST support
+3876	SYS_PROC	0	GiST support
+3877	SYS_PROC	0	GiST support
+3878	SYS_PROC	0	GiST support
+3996	SYS_PROC	0	GiST support
+3879	SYS_PROC	0	GiST support
+3880	SYS_PROC	0	GiST support
+3881	SYS_PROC	0	GiST support
+3902	SYS_PROC	0	hash a range
+3916	SYS_PROC	0	range typanalyze
+3169	SYS_PROC	0	restriction selectivity for range operators
+3914	SYS_PROC	0	convert an int4 range to canonical form
+3928	SYS_PROC	0	convert an int8 range to canonical form
+3915	SYS_PROC	0	convert a date range to canonical form
+3922	SYS_PROC	0	float8 difference of two int4 values
+3923	SYS_PROC	0	float8 difference of two int8 values
+3924	SYS_PROC	0	float8 difference of two numeric values
+3925	SYS_PROC	0	float8 difference of two date values
+3929	SYS_PROC	0	float8 difference of two timestamp values
+3930	SYS_PROC	0	float8 difference of two timestamp with time zone values
+3840	SYS_PROC	0	int4range constructor
+3841	SYS_PROC	0	int4range constructor
+3844	SYS_PROC	0	numrange constructor
+3845	SYS_PROC	0	numrange constructor
+3933	SYS_PROC	0	tsrange constructor
+3934	SYS_PROC	0	tsrange constructor
+3937	SYS_PROC	0	tstzrange constructor
+3938	SYS_PROC	0	tstzrange constructor
+3941	SYS_PROC	0	daterange constructor
+3942	SYS_PROC	0	daterange constructor
+3945	SYS_PROC	0	int8range constructor
+3946	SYS_PROC	0	int8range constructor
+3846	SYS_PROC	0	construct date
+3847	SYS_PROC	0	construct time
+3461	SYS_PROC	0	construct timestamp
+3462	SYS_PROC	0	construct timestamp with time zone
+3463	SYS_PROC	0	construct timestamp with time zone
+3464	SYS_PROC	0	construct interval
+4018	SYS_PROC	0	SP-GiST support for quad tree over point
+4019	SYS_PROC	0	SP-GiST support for quad tree over point
+4020	SYS_PROC	0	SP-GiST support for quad tree over point
+4021	SYS_PROC	0	SP-GiST support for quad tree over point
+4022	SYS_PROC	0	SP-GiST support for quad tree and k-d tree over point
+4023	SYS_PROC	0	SP-GiST support for k-d tree over point
+4024	SYS_PROC	0	SP-GiST support for k-d tree over point
+4025	SYS_PROC	0	SP-GiST support for k-d tree over point
+4026	SYS_PROC	0	SP-GiST support for k-d tree over point
+4027	SYS_PROC	0	SP-GiST support for radix tree over text
+4028	SYS_PROC	0	SP-GiST support for radix tree over text
+4029	SYS_PROC	0	SP-GiST support for radix tree over text
+4030	SYS_PROC	0	SP-GiST support for radix tree over text
+4031	SYS_PROC	0	SP-GiST support for radix tree over text
+3469	SYS_PROC	0	SP-GiST support for quad tree over range
+3470	SYS_PROC	0	SP-GiST support for quad tree over range
+3471	SYS_PROC	0	SP-GiST support for quad tree over range
+3472	SYS_PROC	0	SP-GiST support for quad tree over range
+3473	SYS_PROC	0	SP-GiST support for quad tree over range
+5012	SYS_PROC	0	SP-GiST support for quad tree over box
+5013	SYS_PROC	0	SP-GiST support for quad tree over box
+5014	SYS_PROC	0	SP-GiST support for quad tree over box
+5015	SYS_PROC	0	SP-GiST support for quad tree over box
+5016	SYS_PROC	0	SP-GiST support for quad tree over box
+3779	SYS_PROC	0	create a physical replication slot
+3780	SYS_PROC	0	drop a replication slot
+3781	SYS_PROC	0	information about replication slots currently in use
+3786	SYS_PROC	0	set up a logical replication slot
+3782	SYS_PROC	0	get changes from replication slot
+3783	SYS_PROC	0	get binary changes from replication slot
+3784	SYS_PROC	0	peek at changes from replication slot
+3785	SYS_PROC	0	peek at binary changes from replication slot
+3577	SYS_PROC	0	emit a textual logical decoding message
+3578	SYS_PROC	0	emit a binary logical decoding message
+3566	SYS_PROC	0	list objects dropped by the current command
+4566	SYS_PROC	0	return Oid of the table getting rewritten
+4567	SYS_PROC	0	return reason code for table getting rewritten
+4568	SYS_PROC	0	list DDL actions being executed by the current command
+3970	SYS_PROC	0	aggregate transition function
+3971	SYS_PROC	0	aggregate transition function
+3972	SYS_PROC	0	discrete percentile
+3973	SYS_PROC	0	aggregate final function
+3974	SYS_PROC	0	continuous distribution percentile
+3975	SYS_PROC	0	aggregate final function
+3976	SYS_PROC	0	continuous distribution percentile
+3977	SYS_PROC	0	aggregate final function
+3978	SYS_PROC	0	multiple discrete percentiles
+3979	SYS_PROC	0	aggregate final function
+3980	SYS_PROC	0	multiple continuous percentiles
+3981	SYS_PROC	0	aggregate final function
+3982	SYS_PROC	0	multiple continuous percentiles
+3983	SYS_PROC	0	aggregate final function
+3984	SYS_PROC	0	most common value
+3985	SYS_PROC	0	aggregate final function
+3986	SYS_PROC	0	rank of hypothetical row
+3987	SYS_PROC	0	aggregate final function
+3988	SYS_PROC	0	fractional rank of hypothetical row
+3989	SYS_PROC	0	aggregate final function
+3990	SYS_PROC	0	cumulative distribution of hypothetical row
+3991	SYS_PROC	0	aggregate final function
+3992	SYS_PROC	0	rank of hypothetical row without gaps
+3993	SYS_PROC	0	aggregate final function
+3582	SYS_PROC	0	for use by sys_upgrade
+3584	SYS_PROC	0	for use by sys_upgrade
+3585	SYS_PROC	0	for use by sys_upgrade
+3586	SYS_PROC	0	for use by sys_upgrade
+3587	SYS_PROC	0	for use by sys_upgrade
+3588	SYS_PROC	0	for use by sys_upgrade
+3589	SYS_PROC	0	for use by sys_upgrade
+3590	SYS_PROC	0	for use by sys_upgrade
+3591	SYS_PROC	0	for use by sys_upgrade
+4083	SYS_PROC	0	for use by sys_upgrade
+6003	SYS_PROC	0	create a replication origin
+6004	SYS_PROC	0	drop replication origin identified by its name
+6005	SYS_PROC	0	translate the replication origin's name to its id
+6006	SYS_PROC	0	configure session to maintain replication progress tracking for the passed in origin
+6007	SYS_PROC	0	teardown configured replication progress tracking
+6008	SYS_PROC	0	is a replication origin configured in this session
+6009	SYS_PROC	0	get the replication progress of the current session
+6010	SYS_PROC	0	setup the transaction's origin lsn and timestamp
+6011	SYS_PROC	0	reset the transaction's origin lsn and timestamp
+6012	SYS_PROC	0	advance replication itentifier to specific location
+6013	SYS_PROC	0	get an individual replication origin's replication progress
+6014	SYS_PROC	0	get progress for all replication origins
+3298	SYS_PROC	0	row security for current context active on table by table oid
+3299	SYS_PROC	0	row security for current context active on table by table name
+3400	SYS_PROC	0	sys_config binary as a function
+3441	SYS_PROC	0	sys_controldata general state information as a function
+3442	SYS_PROC	0	sys_controldata checkpoint state information as a function
+3443	SYS_PROC	0	sys_controldata recovery state information as a function
+3444	SYS_PROC	0	sys_controldata init state information as a function
+441	SYS_PROC	0	I/O
+442	SYS_PROC	0	I/O
+443	SYS_PROC	0	I/O
+444	SYS_PROC	0	I/O
+445	SYS_PROC	0	implementation of = operator
+446	SYS_PROC	0	hash
+8210	SYS_PROC	0	nestedtable input
+8211	SYS_PROC	0	nestedtable output
+8212	SYS_PROC	0	varray input
+8213	SYS_PROC	0	varray output
+8214	SYS_PROC	0	associative_array input
+8215	SYS_PROC	0	associative_array output
+8216	SYS_PROC	0	nestedtable constructor
+8217	SYS_PROC	0	varray constructor
+8232	SYS_PROC	0	nested_table count
+8233	SYS_PROC	0	varray count
+8234	SYS_PROC	0	associative_array count
+8235	SYS_PROC	0	nested_table first
+8236	SYS_PROC	0	varray first
+8237	SYS_PROC	0	associative_array first
+8238	SYS_PROC	0	nested_table last
+8239	SYS_PROC	0	varray last
+8240	SYS_PROC	0	associative_array last
+8241	SYS_PROC	0	nested_table next
+8242	SYS_PROC	0	varray next
+8243	SYS_PROC	0	associative_array next
+8244	SYS_PROC	0	nested_table prior
+8245	SYS_PROC	0	varray prior
+8246	SYS_PROC	0	associative_array prior
+8247	SYS_PROC	0	nested_table delete_all
+8248	SYS_PROC	0	varray delete_all
+8249	SYS_PROC	0	associative_array delete_all
+8250	SYS_PROC	0	nested_table delete_index
+8251	SYS_PROC	0	associative_array delete_index
+8252	SYS_PROC	0	nested_table delete_range
+8253	SYS_PROC	0	associative_array delete_range
+8254	SYS_PROC	0	nested_table trim_one
+8255	SYS_PROC	0	varray trim_one
+8256	SYS_PROC	0	nested_table trim_n
+8257	SYS_PROC	0	varray trim_n
+8258	SYS_PROC	0	nested_table extend_one
+8259	SYS_PROC	0	varray extend_one
+8260	SYS_PROC	0	nested_table extend_n
+8261	SYS_PROC	0	varray extend_n
+8262	SYS_PROC	0	nested_table extend_n_index
+8263	SYS_PROC	0	varray extend_n_index
+8264	SYS_PROC	0	nested_table extend_n_index
+8265	SYS_PROC	0	varray extend_n_index
+8266	SYS_PROC	0	nested_table extend_limit
+8267	SYS_PROC	0	varray extend_limit
+8268	SYS_PROC	0	associative_array extend_limit
+8270	SYS_PROC	0	nested_table eq
+8271	SYS_PROC	0	varray eq
+8272	SYS_PROC	0	associative_array eq
+8273	SYS_PROC	0	nested_table ne
+8274	SYS_PROC	0	varray ne
+8275	SYS_PROC	0	associative_array ne
+9150	SYS_PROC	0	user privilege on package by username, pkg name
+9151	SYS_PROC	0	user privilege on package by username, pkg oid
+9152	SYS_PROC	0	user privilege on package by user oid, pkg name
+9153	SYS_PROC	0	user privilege on package by user oid, pkg oid
+9154	SYS_PROC	0	current user privilege on package by pkg name
+9155	SYS_PROC	0	current user privilege on package by package oid
+9156	SYS_PROC	0	is package visible in search path?
+9320	SYS_PROC	0	create security level
+9321	SYS_PROC	0	create security compartment
+9322	SYS_PROC	0	create security label
+9323	SYS_PROC	0	create security policy
+9324	SYS_PROC	0	drop security level by level name
+9325	SYS_PROC	0	drop security level by level id
+9326	SYS_PROC	0	drop security compartment by compartment name
+9327	SYS_PROC	0	drop security compartment by compartment id
+9328	SYS_PROC	0	drop security label
+9329	SYS_PROC	0	drop security label
+9330	SYS_PROC	0	drop security policy
+9331	SYS_PROC	0	disable security policy
+9332	SYS_PROC	0	enable security policy
+9333	SYS_PROC	0	alter security label by label text
+9334	SYS_PROC	0	alter security label by label id
+9335	SYS_PROC	0	set security label to user
+9336	SYS_PROC	0	remove security label for user
+9337	SYS_PROC	0	set default security label for user
+9338	SYS_PROC	0	apply policy for table
+9339	SYS_PROC	0	remove policy for table
+9340	SYS_PROC	0	set user policy privilege
+9341	SYS_PROC	0	read mediation check
+9342	SYS_PROC	0	write mediation check
+9343	SYS_PROC	0	insert a label
+9344	SYS_PROC	0	update a label
+9345	SYS_PROC	0	show session labels and its policy
+9346	SYS_PROC	0	set session label
+9347	SYS_PROC	0	label to varchar
+9348	SYS_PROC	0	varchar to label
+9349	SYS_PROC	0	set user levels
+9350	SYS_PROC	0	set user compartments
+9351	SYS_PROC	0	set user default row label
+9352	SYS_PROC	0	set user row label
+9353	SYS_PROC	0	privs to varchar
+9354	SYS_PROC	0	generate default row label
+9355	SYS_PROC	0	get max label id of read policy
+9356	SYS_PROC	0	get min label id of read policy
+9357	SYS_PROC	0	set session label lookup information
+9358	SYS_PROC	0	show session label mediation
+3360	SYS_PROC	0	User logonlog: Delete before days
+3361	SYS_PROC	0	User logonlog: Delete by ip
+3362	SYS_PROC	0	User logonlog: Delete by user name
+3364	SYS_PROC	0	reload configuration files
+3372	SYS_PROC	0	get product name
+3396	SYS_PROC	0	get license info
+3399	SYS_PROC	0	get license validdays
+6024	SYS_PROC	0	get low prefix string for like var
+6025	SYS_PROC	0	get high prefix string for like var
+6026	SYS_PROC	0	get low prefix string for like var
+6027	SYS_PROC	0	get high prefix string for like var
+16	SYS_TYPE	0	boolean, 'true'/'false'
+17	SYS_TYPE	0	variable-length string, binary values escaped
+18	SYS_TYPE	0	single character
+19	SYS_TYPE	0	63-byte type for storing system identifiers
+20	SYS_TYPE	0	~18 digit integer, 8-byte storage
+9	SYS_TYPE	0	-128 to 127 integer, 1-byte storage
+21	SYS_TYPE	0	-32 thousand to 32 thousand, 2-byte storage
+22	SYS_TYPE	0	array of int2, used in system tables
+23	SYS_TYPE	0	-2 billion to 2 billion integer, 4-byte storage
+24	SYS_TYPE	0	registered procedure
+25	SYS_TYPE	0	variable-length string, no limit specified
+26	SYS_TYPE	0	object identifier(oid), maximum 4 billion
+27	SYS_TYPE	0	(block, offset), physical location of tuple
+28	SYS_TYPE	0	transaction id
+29	SYS_TYPE	0	command identifier type, sequence in transaction id
+30	SYS_TYPE	0	array of oids, used in system tables
+142	SYS_TYPE	0	XML content
+194	SYS_TYPE	0	string representing an internal node tree
+32	SYS_TYPE	0	internal type for passing CollectedCommand
+210	SYS_TYPE	0	storage manager
+600	SYS_TYPE	0	geometric point '(x, y)'
+601	SYS_TYPE	0	geometric line segment '(pt1,pt2)'
+602	SYS_TYPE	0	geometric path '(pt1,...)'
+603	SYS_TYPE	0	geometric box '(lower left,upper right)'
+604	SYS_TYPE	0	geometric polygon '(pt1,...)'
+628	SYS_TYPE	0	geometric line
+700	SYS_TYPE	0	single-precision floating point number, 4-byte storage
+701	SYS_TYPE	0	double-precision floating point number, 8-byte storage
+702	SYS_TYPE	0	absolute, limited-range date and time (Unix system time)
+703	SYS_TYPE	0	relative, limited-range time interval (Unix delta time)
+704	SYS_TYPE	0	(abstime,abstime), time interval
+718	SYS_TYPE	0	geometric circle '(center,radius)'
+790	SYS_TYPE	0	monetary amounts, $d,ddd.cc
+829	SYS_TYPE	0	XX:XX:XX:XX:XX:XX, MAC address
+869	SYS_TYPE	0	IP address/netmask, host address, netmask optional
+650	SYS_TYPE	0	network IP address/netmask, network address
+1033	SYS_TYPE	0	access control list
+1042	SYS_TYPE	0	char(length), blank-padded string, fixed storage length
+1043	SYS_TYPE	0	varchar(length), non-blank-padded string, variable storage length
+1082	SYS_TYPE	0	date
+1083	SYS_TYPE	0	time of day
+1114	SYS_TYPE	0	date and time
+1184	SYS_TYPE	0	date and time with time zone
+1186	SYS_TYPE	0	@ <number> <units>, time interval
+1266	SYS_TYPE	0	time of day with time zone
+1560	SYS_TYPE	0	fixed-length bit string
+1562	SYS_TYPE	0	variable-length bit string
+1700	SYS_TYPE	0	numeric(precision, decimal), arbitrary precision number
+1790	SYS_TYPE	0	reference to cursor (portal name)
+2202	SYS_TYPE	0	registered procedure (with args)
+2203	SYS_TYPE	0	registered operator
+2204	SYS_TYPE	0	registered operator (with args)
+2205	SYS_TYPE	0	registered class
+2206	SYS_TYPE	0	registered type
+4096	SYS_TYPE	0	registered role
+4089	SYS_TYPE	0	registered namespace
+2950	SYS_TYPE	0	UUID datatype
+3220	SYS_TYPE	0	Kingbase LSN datatype
+3614	SYS_TYPE	0	text representation for text search
+3642	SYS_TYPE	0	GiST index internal text representation for text search
+3615	SYS_TYPE	0	query representation for text search
+3734	SYS_TYPE	0	registered text search configuration
+3769	SYS_TYPE	0	registered text search dictionary
+3802	SYS_TYPE	0	Binary JSON
+2970	SYS_TYPE	0	txid snapshot
+3904	SYS_TYPE	0	range of integers
+3906	SYS_TYPE	0	range of numerics
+3908	SYS_TYPE	0	range of timestamps without time zone
+3910	SYS_TYPE	0	range of timestamps with time zone
+3912	SYS_TYPE	0	range of dates
+3926	SYS_TYPE	0	range of bigints
+11602	SYS_TYPE	0	Transparent Encryption key string, TDE_KEY_LENGTH specified
+15	SYS_OPERATOR	0	equal
+36	SYS_OPERATOR	0	not equal
+37	SYS_OPERATOR	0	less than
+76	SYS_OPERATOR	0	greater than
+80	SYS_OPERATOR	0	less than or equal
+82	SYS_OPERATOR	0	greater than or equal
+58	SYS_OPERATOR	0	less than
+59	SYS_OPERATOR	0	greater than
+85	SYS_OPERATOR	0	not equal
+91	SYS_OPERATOR	0	equal
+1694	SYS_OPERATOR	0	less than or equal
+1695	SYS_OPERATOR	0	greater than or equal
+92	SYS_OPERATOR	0	equal
+93	SYS_OPERATOR	0	equal
+94	SYS_OPERATOR	0	equal
+95	SYS_OPERATOR	0	less than
+96	SYS_OPERATOR	0	equal
+97	SYS_OPERATOR	0	less than
+98	SYS_OPERATOR	0	equal
+349	SYS_OPERATOR	0	append element onto end of array
+374	SYS_OPERATOR	0	prepend element onto front of array
+375	SYS_OPERATOR	0	concatenate
+352	SYS_OPERATOR	0	equal
+353	SYS_OPERATOR	0	equal
+3315	SYS_OPERATOR	0	not equal
+3316	SYS_OPERATOR	0	not equal
+388	SYS_OPERATOR	0	factorial
+389	SYS_OPERATOR	0	deprecated, use ! instead
+385	SYS_OPERATOR	0	equal
+386	SYS_OPERATOR	0	equal
+387	SYS_OPERATOR	0	equal
+402	SYS_OPERATOR	0	not equal
+2799	SYS_OPERATOR	0	less than
+2800	SYS_OPERATOR	0	greater than
+2801	SYS_OPERATOR	0	less than or equal
+2802	SYS_OPERATOR	0	greater than or equal
+410	SYS_OPERATOR	0	equal
+411	SYS_OPERATOR	0	not equal
+412	SYS_OPERATOR	0	less than
+413	SYS_OPERATOR	0	greater than
+414	SYS_OPERATOR	0	less than or equal
+415	SYS_OPERATOR	0	greater than or equal
+416	SYS_OPERATOR	0	equal
+417	SYS_OPERATOR	0	not equal
+418	SYS_OPERATOR	0	less than
+419	SYS_OPERATOR	0	greater than
+420	SYS_OPERATOR	0	less than or equal
+430	SYS_OPERATOR	0	greater than or equal
+439	SYS_OPERATOR	0	modulus
+473	SYS_OPERATOR	0	absolute value
+484	SYS_OPERATOR	0	negate
+485	SYS_OPERATOR	0	is left of
+486	SYS_OPERATOR	0	overlaps or is left of
+487	SYS_OPERATOR	0	overlaps or is right of
+488	SYS_OPERATOR	0	is right of
+489	SYS_OPERATOR	0	is contained by
+490	SYS_OPERATOR	0	contains
+491	SYS_OPERATOR	0	same as
+492	SYS_OPERATOR	0	overlaps
+493	SYS_OPERATOR	0	is left of
+494	SYS_OPERATOR	0	overlaps or is left of
+495	SYS_OPERATOR	0	overlaps or is right of
+496	SYS_OPERATOR	0	is right of
+497	SYS_OPERATOR	0	is contained by
+498	SYS_OPERATOR	0	contains
+499	SYS_OPERATOR	0	same as
+500	SYS_OPERATOR	0	overlaps
+501	SYS_OPERATOR	0	greater than or equal by area
+502	SYS_OPERATOR	0	greater than by area
+503	SYS_OPERATOR	0	equal by area
+504	SYS_OPERATOR	0	less than by area
+505	SYS_OPERATOR	0	less than or equal by area
+506	SYS_OPERATOR	0	is above
+507	SYS_OPERATOR	0	is left of
+508	SYS_OPERATOR	0	is right of
+509	SYS_OPERATOR	0	is below
+510	SYS_OPERATOR	0	same as
+511	SYS_OPERATOR	0	point inside box
+433	SYS_OPERATOR	0	contains
+512	SYS_OPERATOR	0	point within closed path, or point on open path
+513	SYS_OPERATOR	0	center of
+514	SYS_OPERATOR	0	multiply
+517	SYS_OPERATOR	0	distance between
+518	SYS_OPERATOR	0	not equal
+519	SYS_OPERATOR	0	not equal
+520	SYS_OPERATOR	0	greater than
+521	SYS_OPERATOR	0	greater than
+522	SYS_OPERATOR	0	less than or equal
+523	SYS_OPERATOR	0	less than or equal
+524	SYS_OPERATOR	0	greater than or equal
+525	SYS_OPERATOR	0	greater than or equal
+526	SYS_OPERATOR	0	multiply
+527	SYS_OPERATOR	0	divide
+528	SYS_OPERATOR	0	divide
+529	SYS_OPERATOR	0	modulus
+530	SYS_OPERATOR	0	modulus
+531	SYS_OPERATOR	0	not equal
+532	SYS_OPERATOR	0	equal
+533	SYS_OPERATOR	0	equal
+534	SYS_OPERATOR	0	less than
+535	SYS_OPERATOR	0	less than
+536	SYS_OPERATOR	0	greater than
+537	SYS_OPERATOR	0	greater than
+538	SYS_OPERATOR	0	not equal
+539	SYS_OPERATOR	0	not equal
+540	SYS_OPERATOR	0	less than or equal
+541	SYS_OPERATOR	0	less than or equal
+542	SYS_OPERATOR	0	greater than or equal
+543	SYS_OPERATOR	0	greater than or equal
+544	SYS_OPERATOR	0	multiply
+545	SYS_OPERATOR	0	multiply
+546	SYS_OPERATOR	0	divide
+547	SYS_OPERATOR	0	divide
+550	SYS_OPERATOR	0	add
+551	SYS_OPERATOR	0	add
+552	SYS_OPERATOR	0	add
+553	SYS_OPERATOR	0	add
+554	SYS_OPERATOR	0	subtract
+555	SYS_OPERATOR	0	subtract
+556	SYS_OPERATOR	0	subtract
+557	SYS_OPERATOR	0	subtract
+558	SYS_OPERATOR	0	negate
+559	SYS_OPERATOR	0	negate
+560	SYS_OPERATOR	0	equal
+561	SYS_OPERATOR	0	not equal
+562	SYS_OPERATOR	0	less than
+563	SYS_OPERATOR	0	greater than
+564	SYS_OPERATOR	0	less than or equal
+565	SYS_OPERATOR	0	greater than or equal
+566	SYS_OPERATOR	0	equal
+567	SYS_OPERATOR	0	not equal
+568	SYS_OPERATOR	0	less than
+569	SYS_OPERATOR	0	greater than
+570	SYS_OPERATOR	0	less than or equal
+571	SYS_OPERATOR	0	greater than or equal
+572	SYS_OPERATOR	0	same as
+573	SYS_OPERATOR	0	contains
+574	SYS_OPERATOR	0	overlaps
+575	SYS_OPERATOR	0	equal by length
+576	SYS_OPERATOR	0	not equal by length
+577	SYS_OPERATOR	0	less than by length
+578	SYS_OPERATOR	0	greater than by length
+579	SYS_OPERATOR	0	less than or equal by length
+580	SYS_OPERATOR	0	greater than or equal by length
+581	SYS_OPERATOR	0	add
+582	SYS_OPERATOR	0	subtract
+583	SYS_OPERATOR	0	is contained by
+584	SYS_OPERATOR	0	negate
+585	SYS_OPERATOR	0	negate
+586	SYS_OPERATOR	0	add
+587	SYS_OPERATOR	0	subtract
+588	SYS_OPERATOR	0	divide
+589	SYS_OPERATOR	0	multiply
+590	SYS_OPERATOR	0	absolute value
+591	SYS_OPERATOR	0	add
+592	SYS_OPERATOR	0	subtract
+593	SYS_OPERATOR	0	divide
+594	SYS_OPERATOR	0	multiply
+595	SYS_OPERATOR	0	absolute value
+596	SYS_OPERATOR	0	square root
+597	SYS_OPERATOR	0	cube root
+1284	SYS_OPERATOR	0	start of interval
+606	SYS_OPERATOR	0	convert to tinterval
+607	SYS_OPERATOR	0	equal
+608	SYS_OPERATOR	0	not equal
+609	SYS_OPERATOR	0	less than
+610	SYS_OPERATOR	0	greater than
+611	SYS_OPERATOR	0	less than or equal
+612	SYS_OPERATOR	0	greater than or equal
+644	SYS_OPERATOR	0	not equal
+645	SYS_OPERATOR	0	less than
+646	SYS_OPERATOR	0	greater than
+647	SYS_OPERATOR	0	less than or equal
+648	SYS_OPERATOR	0	greater than or equal
+649	SYS_OPERATOR	0	equal
+613	SYS_OPERATOR	0	distance between
+614	SYS_OPERATOR	0	distance between
+615	SYS_OPERATOR	0	distance between
+616	SYS_OPERATOR	0	distance between
+617	SYS_OPERATOR	0	distance between
+618	SYS_OPERATOR	0	distance between
+620	SYS_OPERATOR	0	equal
+621	SYS_OPERATOR	0	not equal
+622	SYS_OPERATOR	0	less than
+623	SYS_OPERATOR	0	greater than
+624	SYS_OPERATOR	0	less than or equal
+625	SYS_OPERATOR	0	greater than or equal
+630	SYS_OPERATOR	0	not equal
+631	SYS_OPERATOR	0	less than
+632	SYS_OPERATOR	0	less than or equal
+633	SYS_OPERATOR	0	greater than
+634	SYS_OPERATOR	0	greater than or equal
+639	SYS_OPERATOR	0	matches regular expression, case-sensitive
+640	SYS_OPERATOR	0	does not match regular expression, case-sensitive
+641	SYS_OPERATOR	0	matches regular expression, case-sensitive
+642	SYS_OPERATOR	0	does not match regular expression, case-sensitive
+643	SYS_OPERATOR	0	not equal
+654	SYS_OPERATOR	0	concatenate
+660	SYS_OPERATOR	0	less than
+661	SYS_OPERATOR	0	less than or equal
+662	SYS_OPERATOR	0	greater than
+663	SYS_OPERATOR	0	greater than or equal
+664	SYS_OPERATOR	0	less than
+665	SYS_OPERATOR	0	less than or equal
+666	SYS_OPERATOR	0	greater than
+667	SYS_OPERATOR	0	greater than or equal
+670	SYS_OPERATOR	0	equal
+671	SYS_OPERATOR	0	not equal
+672	SYS_OPERATOR	0	less than
+673	SYS_OPERATOR	0	less than or equal
+674	SYS_OPERATOR	0	greater than
+675	SYS_OPERATOR	0	greater than or equal
+682	SYS_OPERATOR	0	absolute value
+684	SYS_OPERATOR	0	add
+685	SYS_OPERATOR	0	subtract
+686	SYS_OPERATOR	0	multiply
+687	SYS_OPERATOR	0	divide
+688	SYS_OPERATOR	0	add
+689	SYS_OPERATOR	0	subtract
+690	SYS_OPERATOR	0	multiply
+691	SYS_OPERATOR	0	divide
+692	SYS_OPERATOR	0	add
+693	SYS_OPERATOR	0	subtract
+694	SYS_OPERATOR	0	multiply
+695	SYS_OPERATOR	0	divide
+818	SYS_OPERATOR	0	add
+819	SYS_OPERATOR	0	subtract
+820	SYS_OPERATOR	0	multiply
+821	SYS_OPERATOR	0	divide
+822	SYS_OPERATOR	0	add
+823	SYS_OPERATOR	0	subtract
+824	SYS_OPERATOR	0	multiply
+825	SYS_OPERATOR	0	divide
+706	SYS_OPERATOR	0	distance between
+707	SYS_OPERATOR	0	distance between
+708	SYS_OPERATOR	0	distance between
+709	SYS_OPERATOR	0	distance between
+712	SYS_OPERATOR	0	distance between
+713	SYS_OPERATOR	0	not equal
+731	SYS_OPERATOR	0	add points (translate)
+732	SYS_OPERATOR	0	subtract points (translate)
+733	SYS_OPERATOR	0	multiply points (scale/rotate)
+734	SYS_OPERATOR	0	divide points (scale/rotate)
+735	SYS_OPERATOR	0	concatenate
+736	SYS_OPERATOR	0	add (translate path)
+737	SYS_OPERATOR	0	subtract (translate path)
+738	SYS_OPERATOR	0	multiply (rotate/scale path)
+739	SYS_OPERATOR	0	divide (rotate/scale path)
+755	SYS_OPERATOR	0	contains
+756	SYS_OPERATOR	0	is contained by
+757	SYS_OPERATOR	0	contains
+758	SYS_OPERATOR	0	is contained by
+759	SYS_OPERATOR	0	contains
+773	SYS_OPERATOR	0	absolute value
+792	SYS_OPERATOR	0	equal
+793	SYS_OPERATOR	0	less than
+794	SYS_OPERATOR	0	greater than
+795	SYS_OPERATOR	0	less than or equal
+796	SYS_OPERATOR	0	greater than or equal
+797	SYS_OPERATOR	0	number of points
+798	SYS_OPERATOR	0	intersect
+799	SYS_OPERATOR	0	sum of path segment lengths
+800	SYS_OPERATOR	0	is above (allows touching)
+801	SYS_OPERATOR	0	is below (allows touching)
+802	SYS_OPERATOR	0	deprecated, use && instead
+803	SYS_OPERATOR	0	box intersection
+804	SYS_OPERATOR	0	add point to box (translate)
+805	SYS_OPERATOR	0	subtract point from box (translate)
+806	SYS_OPERATOR	0	multiply box by point (scale)
+807	SYS_OPERATOR	0	divide box by point (scale)
+808	SYS_OPERATOR	0	horizontally aligned
+809	SYS_OPERATOR	0	vertically aligned
+811	SYS_OPERATOR	0	equal
+812	SYS_OPERATOR	0	not equal
+813	SYS_OPERATOR	0	less than
+814	SYS_OPERATOR	0	greater than
+815	SYS_OPERATOR	0	less than or equal
+816	SYS_OPERATOR	0	greater than or equal
+843	SYS_OPERATOR	0	multiply
+844	SYS_OPERATOR	0	divide
+845	SYS_OPERATOR	0	multiply
+900	SYS_OPERATOR	0	equal
+901	SYS_OPERATOR	0	not equal
+902	SYS_OPERATOR	0	less than
+903	SYS_OPERATOR	0	greater than
+904	SYS_OPERATOR	0	less than or equal
+905	SYS_OPERATOR	0	greater than or equal
+906	SYS_OPERATOR	0	add
+907	SYS_OPERATOR	0	subtract
+908	SYS_OPERATOR	0	multiply
+909	SYS_OPERATOR	0	divide
+912	SYS_OPERATOR	0	multiply
+913	SYS_OPERATOR	0	divide
+914	SYS_OPERATOR	0	multiply
+915	SYS_OPERATOR	0	divide
+916	SYS_OPERATOR	0	multiply
+917	SYS_OPERATOR	0	multiply
+918	SYS_OPERATOR	0	multiply
+3825	SYS_OPERATOR	0	divide
+965	SYS_OPERATOR	0	exponentiation
+966	SYS_OPERATOR	0	add/update ACL item
+967	SYS_OPERATOR	0	remove ACL item
+968	SYS_OPERATOR	0	contains
+974	SYS_OPERATOR	0	equal
+969	SYS_OPERATOR	0	center of
+970	SYS_OPERATOR	0	center of
+971	SYS_OPERATOR	0	center of
+1054	SYS_OPERATOR	0	equal
+1055	SYS_OPERATOR	0	matches regular expression, case-sensitive
+1056	SYS_OPERATOR	0	does not match regular expression, case-sensitive
+1057	SYS_OPERATOR	0	not equal
+1058	SYS_OPERATOR	0	less than
+1059	SYS_OPERATOR	0	less than or equal
+1060	SYS_OPERATOR	0	greater than
+1061	SYS_OPERATOR	0	greater than or equal
+1070	SYS_OPERATOR	0	equal
+1071	SYS_OPERATOR	0	not equal
+1072	SYS_OPERATOR	0	less than
+1073	SYS_OPERATOR	0	greater than
+1074	SYS_OPERATOR	0	less than or equal
+1075	SYS_OPERATOR	0	greater than or equal
+1076	SYS_OPERATOR	0	add
+1077	SYS_OPERATOR	0	subtract
+1093	SYS_OPERATOR	0	equal
+1094	SYS_OPERATOR	0	not equal
+1095	SYS_OPERATOR	0	less than
+1096	SYS_OPERATOR	0	less than or equal
+1097	SYS_OPERATOR	0	greater than
+1098	SYS_OPERATOR	0	greater than or equal
+1099	SYS_OPERATOR	0	subtract
+1100	SYS_OPERATOR	0	add
+1101	SYS_OPERATOR	0	subtract
+1108	SYS_OPERATOR	0	equal
+1109	SYS_OPERATOR	0	not equal
+1110	SYS_OPERATOR	0	less than
+1111	SYS_OPERATOR	0	less than or equal
+1112	SYS_OPERATOR	0	greater than
+1113	SYS_OPERATOR	0	greater than or equal
+1550	SYS_OPERATOR	0	equal
+1551	SYS_OPERATOR	0	not equal
+1552	SYS_OPERATOR	0	less than
+1553	SYS_OPERATOR	0	less than or equal
+1554	SYS_OPERATOR	0	greater than
+1555	SYS_OPERATOR	0	greater than or equal
+1116	SYS_OPERATOR	0	add
+1117	SYS_OPERATOR	0	subtract
+1118	SYS_OPERATOR	0	divide
+1119	SYS_OPERATOR	0	multiply
+1120	SYS_OPERATOR	0	equal
+1121	SYS_OPERATOR	0	not equal
+1122	SYS_OPERATOR	0	less than
+1123	SYS_OPERATOR	0	greater than
+1124	SYS_OPERATOR	0	less than or equal
+1125	SYS_OPERATOR	0	greater than or equal
+1126	SYS_OPERATOR	0	add
+1127	SYS_OPERATOR	0	subtract
+1128	SYS_OPERATOR	0	divide
+1129	SYS_OPERATOR	0	multiply
+1130	SYS_OPERATOR	0	equal
+1131	SYS_OPERATOR	0	not equal
+1132	SYS_OPERATOR	0	less than
+1133	SYS_OPERATOR	0	greater than
+1134	SYS_OPERATOR	0	less than or equal
+1135	SYS_OPERATOR	0	greater than or equal
+1207	SYS_OPERATOR	0	matches LIKE expression
+1208	SYS_OPERATOR	0	does not match LIKE expression
+1209	SYS_OPERATOR	0	matches LIKE expression
+1210	SYS_OPERATOR	0	does not match LIKE expression
+1211	SYS_OPERATOR	0	matches LIKE expression
+1212	SYS_OPERATOR	0	does not match LIKE expression
+1226	SYS_OPERATOR	0	matches regular expression, case-insensitive
+1227	SYS_OPERATOR	0	does not match regular expression, case-insensitive
+1228	SYS_OPERATOR	0	matches regular expression, case-insensitive
+1229	SYS_OPERATOR	0	does not match regular expression, case-insensitive
+1234	SYS_OPERATOR	0	matches regular expression, case-insensitive
+1235	SYS_OPERATOR	0	does not match regular expression, case-insensitive
+1320	SYS_OPERATOR	0	equal
+1321	SYS_OPERATOR	0	not equal
+1322	SYS_OPERATOR	0	less than
+1323	SYS_OPERATOR	0	less than or equal
+1324	SYS_OPERATOR	0	greater than
+1325	SYS_OPERATOR	0	greater than or equal
+1327	SYS_OPERATOR	0	add
+1328	SYS_OPERATOR	0	subtract
+1329	SYS_OPERATOR	0	subtract
+1330	SYS_OPERATOR	0	equal
+1331	SYS_OPERATOR	0	not equal
+1332	SYS_OPERATOR	0	less than
+1333	SYS_OPERATOR	0	less than or equal
+1334	SYS_OPERATOR	0	greater than
+1335	SYS_OPERATOR	0	greater than or equal
+1336	SYS_OPERATOR	0	negate
+1337	SYS_OPERATOR	0	add
+1338	SYS_OPERATOR	0	subtract
+1360	SYS_OPERATOR	0	convert date and time to timestamp
+1361	SYS_OPERATOR	0	convert date and time with time zone to timestamp with time zone
+1363	SYS_OPERATOR	0	convert time and date to timestamp
+1366	SYS_OPERATOR	0	convert time with time zone and date to timestamp with time zone
+1399	SYS_OPERATOR	0	subtract
+1420	SYS_OPERATOR	0	center of
+1500	SYS_OPERATOR	0	equal by area
+1501	SYS_OPERATOR	0	not equal by area
+1502	SYS_OPERATOR	0	less than by area
+1503	SYS_OPERATOR	0	greater than by area
+1504	SYS_OPERATOR	0	less than or equal by area
+1505	SYS_OPERATOR	0	greater than or equal by area
+1506	SYS_OPERATOR	0	is left of
+1507	SYS_OPERATOR	0	overlaps or is left of
+1508	SYS_OPERATOR	0	overlaps or is right of
+1509	SYS_OPERATOR	0	is right of
+1510	SYS_OPERATOR	0	is contained by
+1511	SYS_OPERATOR	0	contains
+1512	SYS_OPERATOR	0	same as
+1513	SYS_OPERATOR	0	overlaps
+1514	SYS_OPERATOR	0	is above
+1515	SYS_OPERATOR	0	is below
+1516	SYS_OPERATOR	0	add
+1517	SYS_OPERATOR	0	subtract
+1518	SYS_OPERATOR	0	multiply
+1519	SYS_OPERATOR	0	divide
+1520	SYS_OPERATOR	0	distance between
+1521	SYS_OPERATOR	0	number of points
+1522	SYS_OPERATOR	0	distance between
+3291	SYS_OPERATOR	0	distance between
+3276	SYS_OPERATOR	0	distance between
+3289	SYS_OPERATOR	0	distance between
+1523	SYS_OPERATOR	0	distance between
+1524	SYS_OPERATOR	0	distance between
+1525	SYS_OPERATOR	0	intersect
+1526	SYS_OPERATOR	0	parallel
+1527	SYS_OPERATOR	0	perpendicular
+1528	SYS_OPERATOR	0	horizontal
+1529	SYS_OPERATOR	0	vertical
+1535	SYS_OPERATOR	0	equal
+1536	SYS_OPERATOR	0	intersection point
+1537	SYS_OPERATOR	0	intersect
+1538	SYS_OPERATOR	0	intersect
+1539	SYS_OPERATOR	0	intersect
+1546	SYS_OPERATOR	0	point on line
+1547	SYS_OPERATOR	0	is contained by
+1548	SYS_OPERATOR	0	lseg on line
+1549	SYS_OPERATOR	0	is contained by
+1557	SYS_OPERATOR	0	closest point to A on B
+1558	SYS_OPERATOR	0	closest point to A on B
+1559	SYS_OPERATOR	0	closest point to A on B
+1566	SYS_OPERATOR	0	closest point to A on B
+1567	SYS_OPERATOR	0	closest point to A on B
+1568	SYS_OPERATOR	0	closest point to A on B
+1577	SYS_OPERATOR	0	closest point to A on B
+1578	SYS_OPERATOR	0	closest point to A on B
+1583	SYS_OPERATOR	0	multiply
+1584	SYS_OPERATOR	0	multiply
+1585	SYS_OPERATOR	0	divide
+1586	SYS_OPERATOR	0	not equal
+1587	SYS_OPERATOR	0	less than by length
+1588	SYS_OPERATOR	0	less than or equal by length
+1589	SYS_OPERATOR	0	greater than by length
+1590	SYS_OPERATOR	0	greater than or equal by length
+1591	SYS_OPERATOR	0	distance between endpoints
+1611	SYS_OPERATOR	0	intersect
+1612	SYS_OPERATOR	0	parallel
+1613	SYS_OPERATOR	0	perpendicular
+1614	SYS_OPERATOR	0	horizontal
+1615	SYS_OPERATOR	0	vertical
+1616	SYS_OPERATOR	0	equal
+1617	SYS_OPERATOR	0	intersection point
+1220	SYS_OPERATOR	0	equal
+1221	SYS_OPERATOR	0	not equal
+1222	SYS_OPERATOR	0	less than
+1223	SYS_OPERATOR	0	less than or equal
+1224	SYS_OPERATOR	0	greater than
+1225	SYS_OPERATOR	0	greater than or equal
+3147	SYS_OPERATOR	0	bitwise not
+3148	SYS_OPERATOR	0	bitwise and
+3149	SYS_OPERATOR	0	bitwise or
+1201	SYS_OPERATOR	0	equal
+1202	SYS_OPERATOR	0	not equal
+1203	SYS_OPERATOR	0	less than
+1204	SYS_OPERATOR	0	less than or equal
+1205	SYS_OPERATOR	0	greater than
+1206	SYS_OPERATOR	0	greater than or equal
+931	SYS_OPERATOR	0	is subnet
+932	SYS_OPERATOR	0	is subnet or equal
+933	SYS_OPERATOR	0	is supernet
+934	SYS_OPERATOR	0	is supernet or equal
+3552	SYS_OPERATOR	0	overlaps (is subnet or supernet)
+2634	SYS_OPERATOR	0	bitwise not
+2635	SYS_OPERATOR	0	bitwise and
+2636	SYS_OPERATOR	0	bitwise or
+2637	SYS_OPERATOR	0	add
+2638	SYS_OPERATOR	0	add
+2639	SYS_OPERATOR	0	subtract
+2640	SYS_OPERATOR	0	subtract
+1625	SYS_OPERATOR	0	matches LIKE expression, case-insensitive
+1626	SYS_OPERATOR	0	does not match LIKE expression, case-insensitive
+1627	SYS_OPERATOR	0	matches LIKE expression, case-insensitive
+1628	SYS_OPERATOR	0	does not match LIKE expression, case-insensitive
+1629	SYS_OPERATOR	0	matches LIKE expression, case-insensitive
+1630	SYS_OPERATOR	0	does not match LIKE expression, case-insensitive
+1751	SYS_OPERATOR	0	negate
+1752	SYS_OPERATOR	0	equal
+1753	SYS_OPERATOR	0	not equal
+1754	SYS_OPERATOR	0	less than
+1755	SYS_OPERATOR	0	less than or equal
+1756	SYS_OPERATOR	0	greater than
+1757	SYS_OPERATOR	0	greater than or equal
+1758	SYS_OPERATOR	0	add
+1759	SYS_OPERATOR	0	subtract
+1760	SYS_OPERATOR	0	multiply
+1761	SYS_OPERATOR	0	divide
+1762	SYS_OPERATOR	0	modulus
+1038	SYS_OPERATOR	0	exponentiation
+1763	SYS_OPERATOR	0	absolute value
+1784	SYS_OPERATOR	0	equal
+1785	SYS_OPERATOR	0	not equal
+1786	SYS_OPERATOR	0	less than
+1787	SYS_OPERATOR	0	greater than
+1788	SYS_OPERATOR	0	less than or equal
+1789	SYS_OPERATOR	0	greater than or equal
+1791	SYS_OPERATOR	0	bitwise and
+1792	SYS_OPERATOR	0	bitwise or
+1793	SYS_OPERATOR	0	bitwise exclusive or
+1794	SYS_OPERATOR	0	bitwise not
+1795	SYS_OPERATOR	0	bitwise shift left
+1796	SYS_OPERATOR	0	bitwise shift right
+1797	SYS_OPERATOR	0	concatenate
+1800	SYS_OPERATOR	0	add
+1801	SYS_OPERATOR	0	subtract
+1802	SYS_OPERATOR	0	add
+1803	SYS_OPERATOR	0	subtract
+1804	SYS_OPERATOR	0	equal
+1805	SYS_OPERATOR	0	not equal
+1806	SYS_OPERATOR	0	less than
+1807	SYS_OPERATOR	0	greater than
+1808	SYS_OPERATOR	0	less than or equal
+1809	SYS_OPERATOR	0	greater than or equal
+1849	SYS_OPERATOR	0	add
+1862	SYS_OPERATOR	0	equal
+1863	SYS_OPERATOR	0	not equal
+1864	SYS_OPERATOR	0	less than
+1865	SYS_OPERATOR	0	greater than
+1866	SYS_OPERATOR	0	less than or equal
+1867	SYS_OPERATOR	0	greater than or equal
+1868	SYS_OPERATOR	0	equal
+1869	SYS_OPERATOR	0	not equal
+1870	SYS_OPERATOR	0	less than
+1871	SYS_OPERATOR	0	greater than
+1872	SYS_OPERATOR	0	less than or equal
+1873	SYS_OPERATOR	0	greater than or equal
+1874	SYS_OPERATOR	0	bitwise and
+1875	SYS_OPERATOR	0	bitwise or
+1876	SYS_OPERATOR	0	bitwise exclusive or
+1877	SYS_OPERATOR	0	bitwise not
+1878	SYS_OPERATOR	0	bitwise shift left
+1879	SYS_OPERATOR	0	bitwise shift right
+1880	SYS_OPERATOR	0	bitwise and
+1881	SYS_OPERATOR	0	bitwise or
+1882	SYS_OPERATOR	0	bitwise exclusive or
+1883	SYS_OPERATOR	0	bitwise not
+1884	SYS_OPERATOR	0	bitwise shift left
+1885	SYS_OPERATOR	0	bitwise shift right
+1886	SYS_OPERATOR	0	bitwise and
+1887	SYS_OPERATOR	0	bitwise or
+1888	SYS_OPERATOR	0	bitwise exclusive or
+1889	SYS_OPERATOR	0	bitwise not
+1890	SYS_OPERATOR	0	bitwise shift left
+1891	SYS_OPERATOR	0	bitwise shift right
+1916	SYS_OPERATOR	0	unary plus
+1917	SYS_OPERATOR	0	unary plus
+1918	SYS_OPERATOR	0	unary plus
+1919	SYS_OPERATOR	0	unary plus
+1920	SYS_OPERATOR	0	unary plus
+1921	SYS_OPERATOR	0	unary plus
+1955	SYS_OPERATOR	0	equal
+1956	SYS_OPERATOR	0	not equal
+1957	SYS_OPERATOR	0	less than
+1958	SYS_OPERATOR	0	less than or equal
+1959	SYS_OPERATOR	0	greater than
+1960	SYS_OPERATOR	0	greater than or equal
+2016	SYS_OPERATOR	0	matches LIKE expression
+2017	SYS_OPERATOR	0	does not match LIKE expression
+2018	SYS_OPERATOR	0	concatenate
+2060	SYS_OPERATOR	0	equal
+2061	SYS_OPERATOR	0	not equal
+2062	SYS_OPERATOR	0	less than
+2063	SYS_OPERATOR	0	less than or equal
+2064	SYS_OPERATOR	0	greater than
+2065	SYS_OPERATOR	0	greater than or equal
+2066	SYS_OPERATOR	0	add
+2067	SYS_OPERATOR	0	subtract
+2068	SYS_OPERATOR	0	subtract
+2314	SYS_OPERATOR	0	less than
+2315	SYS_OPERATOR	0	less than or equal
+2317	SYS_OPERATOR	0	greater than or equal
+2318	SYS_OPERATOR	0	greater than
+2326	SYS_OPERATOR	0	less than
+2327	SYS_OPERATOR	0	less than or equal
+2329	SYS_OPERATOR	0	greater than or equal
+2330	SYS_OPERATOR	0	greater than
+2345	SYS_OPERATOR	0	less than
+2346	SYS_OPERATOR	0	less than or equal
+2347	SYS_OPERATOR	0	equal
+2348	SYS_OPERATOR	0	greater than or equal
+2349	SYS_OPERATOR	0	greater than
+2350	SYS_OPERATOR	0	not equal
+2358	SYS_OPERATOR	0	less than
+2359	SYS_OPERATOR	0	less than or equal
+2360	SYS_OPERATOR	0	equal
+2361	SYS_OPERATOR	0	greater than or equal
+2362	SYS_OPERATOR	0	greater than
+2363	SYS_OPERATOR	0	not equal
+2371	SYS_OPERATOR	0	less than
+2372	SYS_OPERATOR	0	less than or equal
+2373	SYS_OPERATOR	0	equal
+2374	SYS_OPERATOR	0	greater than or equal
+2375	SYS_OPERATOR	0	greater than
+2376	SYS_OPERATOR	0	not equal
+2384	SYS_OPERATOR	0	less than
+2385	SYS_OPERATOR	0	less than or equal
+2386	SYS_OPERATOR	0	equal
+2387	SYS_OPERATOR	0	greater than or equal
+2388	SYS_OPERATOR	0	greater than
+2389	SYS_OPERATOR	0	not equal
+2534	SYS_OPERATOR	0	less than
+2535	SYS_OPERATOR	0	less than or equal
+2536	SYS_OPERATOR	0	equal
+2537	SYS_OPERATOR	0	greater than or equal
+2538	SYS_OPERATOR	0	greater than
+2539	SYS_OPERATOR	0	not equal
+2540	SYS_OPERATOR	0	less than
+2541	SYS_OPERATOR	0	less than or equal
+2542	SYS_OPERATOR	0	equal
+2543	SYS_OPERATOR	0	greater than or equal
+2544	SYS_OPERATOR	0	greater than
+2545	SYS_OPERATOR	0	not equal
+2551	SYS_OPERATOR	0	add
+2552	SYS_OPERATOR	0	add
+2553	SYS_OPERATOR	0	add
+2554	SYS_OPERATOR	0	add
+2555	SYS_OPERATOR	0	add
+2570	SYS_OPERATOR	0	is below
+2571	SYS_OPERATOR	0	overlaps or is below
+2572	SYS_OPERATOR	0	overlaps or is above
+2573	SYS_OPERATOR	0	is above
+2574	SYS_OPERATOR	0	is below
+2575	SYS_OPERATOR	0	overlaps or is below
+2576	SYS_OPERATOR	0	overlaps or is above
+2577	SYS_OPERATOR	0	is above
+2589	SYS_OPERATOR	0	overlaps or is below
+2590	SYS_OPERATOR	0	overlaps or is above
+2750	SYS_OPERATOR	0	overlaps
+2751	SYS_OPERATOR	0	contains
+2752	SYS_OPERATOR	0	is contained by
+2860	SYS_OPERATOR	0	deprecated, use <@ instead
+2861	SYS_OPERATOR	0	deprecated, use @> instead
+2862	SYS_OPERATOR	0	deprecated, use <@ instead
+2863	SYS_OPERATOR	0	deprecated, use @> instead
+2864	SYS_OPERATOR	0	deprecated, use <@ instead
+2865	SYS_OPERATOR	0	deprecated, use @> instead
+2866	SYS_OPERATOR	0	deprecated, use <@ instead
+2867	SYS_OPERATOR	0	deprecated, use <@ instead
+2868	SYS_OPERATOR	0	deprecated, use @> instead
+2869	SYS_OPERATOR	0	deprecated, use <@ instead
+2870	SYS_OPERATOR	0	deprecated, use @> instead
+2871	SYS_OPERATOR	0	deprecated, use <@ instead
+2872	SYS_OPERATOR	0	deprecated, use @> instead
+2873	SYS_OPERATOR	0	deprecated, use <@ instead
+2874	SYS_OPERATOR	0	deprecated, use <@ instead
+2875	SYS_OPERATOR	0	deprecated, use <@ instead
+2876	SYS_OPERATOR	0	deprecated, use <@ instead
+2877	SYS_OPERATOR	0	deprecated, use @> instead
+2972	SYS_OPERATOR	0	equal
+2973	SYS_OPERATOR	0	not equal
+2974	SYS_OPERATOR	0	less than
+2975	SYS_OPERATOR	0	greater than
+2976	SYS_OPERATOR	0	less than or equal
+2977	SYS_OPERATOR	0	greater than or equal
+3222	SYS_OPERATOR	0	equal
+3223	SYS_OPERATOR	0	not equal
+3224	SYS_OPERATOR	0	less than
+3225	SYS_OPERATOR	0	greater than
+3226	SYS_OPERATOR	0	less than or equal
+3227	SYS_OPERATOR	0	greater than or equal
+3228	SYS_OPERATOR	0	minus
+3516	SYS_OPERATOR	0	equal
+3517	SYS_OPERATOR	0	not equal
+3518	SYS_OPERATOR	0	less than
+3519	SYS_OPERATOR	0	greater than
+3520	SYS_OPERATOR	0	less than or equal
+3521	SYS_OPERATOR	0	greater than or equal
+3627	SYS_OPERATOR	0	less than
+3628	SYS_OPERATOR	0	less than or equal
+3629	SYS_OPERATOR	0	equal
+3630	SYS_OPERATOR	0	not equal
+3631	SYS_OPERATOR	0	greater than or equal
+3632	SYS_OPERATOR	0	greater than
+3633	SYS_OPERATOR	0	concatenate
+3636	SYS_OPERATOR	0	text search match
+3637	SYS_OPERATOR	0	text search match
+3660	SYS_OPERATOR	0	deprecated, use @@ instead
+3661	SYS_OPERATOR	0	deprecated, use @@ instead
+3674	SYS_OPERATOR	0	less than
+3675	SYS_OPERATOR	0	less than or equal
+3676	SYS_OPERATOR	0	equal
+3677	SYS_OPERATOR	0	not equal
+3678	SYS_OPERATOR	0	greater than or equal
+3679	SYS_OPERATOR	0	greater than
+3680	SYS_OPERATOR	0	AND-concatenate
+3681	SYS_OPERATOR	0	OR-concatenate
+5005	SYS_OPERATOR	0	phrase-concatenate
+3682	SYS_OPERATOR	0	NOT tsquery
+3693	SYS_OPERATOR	0	contains
+3694	SYS_OPERATOR	0	is contained by
+3762	SYS_OPERATOR	0	text search match
+3763	SYS_OPERATOR	0	text search match
+2988	SYS_OPERATOR	0	equal
+2989	SYS_OPERATOR	0	not equal
+2990	SYS_OPERATOR	0	less than
+2991	SYS_OPERATOR	0	greater than
+2992	SYS_OPERATOR	0	less than or equal
+2993	SYS_OPERATOR	0	greater than or equal
+3188	SYS_OPERATOR	0	identical
+3189	SYS_OPERATOR	0	not identical
+3190	SYS_OPERATOR	0	less than
+3191	SYS_OPERATOR	0	greater than
+3192	SYS_OPERATOR	0	less than or equal
+3193	SYS_OPERATOR	0	greater than or equal
+3882	SYS_OPERATOR	0	equal
+3883	SYS_OPERATOR	0	not equal
+3884	SYS_OPERATOR	0	less than
+3885	SYS_OPERATOR	0	less than or equal
+3886	SYS_OPERATOR	0	greater than or equal
+3887	SYS_OPERATOR	0	greater than
+3888	SYS_OPERATOR	0	overlaps
+3889	SYS_OPERATOR	0	contains
+3890	SYS_OPERATOR	0	contains
+3891	SYS_OPERATOR	0	is contained by
+3892	SYS_OPERATOR	0	is contained by
+3893	SYS_OPERATOR	0	is left of
+3894	SYS_OPERATOR	0	is right of
+3895	SYS_OPERATOR	0	overlaps or is left of
+3896	SYS_OPERATOR	0	overlaps or is right of
+3897	SYS_OPERATOR	0	is adjacent to
+3898	SYS_OPERATOR	0	range union
+3899	SYS_OPERATOR	0	range difference
+3900	SYS_OPERATOR	0	range intersection
+3962	SYS_OPERATOR	0	get json object field
+3963	SYS_OPERATOR	0	get json object field as text
+3964	SYS_OPERATOR	0	get json array element
+3965	SYS_OPERATOR	0	get json array element as text
+3966	SYS_OPERATOR	0	get value from json with path elements
+3967	SYS_OPERATOR	0	get value from json as text with path elements
+3211	SYS_OPERATOR	0	get jsonb object field
+3477	SYS_OPERATOR	0	get jsonb object field as text
+3212	SYS_OPERATOR	0	get jsonb array element
+3481	SYS_OPERATOR	0	get jsonb array element as text
+3213	SYS_OPERATOR	0	get value from jsonb with path elements
+3206	SYS_OPERATOR	0	get value from jsonb as text with path elements
+3240	SYS_OPERATOR	0	equal
+3241	SYS_OPERATOR	0	not equal
+3242	SYS_OPERATOR	0	less than
+3243	SYS_OPERATOR	0	greater than
+3244	SYS_OPERATOR	0	less than or equal
+3245	SYS_OPERATOR	0	greater than or equal
+3246	SYS_OPERATOR	0	contains
+3247	SYS_OPERATOR	0	key exists
+3248	SYS_OPERATOR	0	any key exists
+3249	SYS_OPERATOR	0	all keys exist
+3250	SYS_OPERATOR	0	is contained by
+3284	SYS_OPERATOR	0	concatenate
+3285	SYS_OPERATOR	0	delete object field
+3286	SYS_OPERATOR	0	delete array element
+3287	SYS_OPERATOR	0	delete path
+3353	SYS_OPERATOR	0	nested_table eq
+3354	SYS_OPERATOR	0	nested_table ne
+3355	SYS_OPERATOR	0	varray eq
+3356	SYS_OPERATOR	0	varray ne
+3357	SYS_OPERATOR	0	associative_array eq
+3358	SYS_OPERATOR	0	associative_array ne
+403	SYS_AM	0	b-tree index access method
+405	SYS_AM	0	hash index access method
+783	SYS_AM	0	GiST index access method
+2742	SYS_AM	0	GIN index access method
+4000	SYS_AM	0	SP-GiST index access method
+3580	SYS_AM	0	block range index (BRIN) access method
+12	SYS_LANGUAGE	0	built-in functions
+13	SYS_LANGUAGE	0	dynamically-loaded C functions
+14	SYS_LANGUAGE	0	SQL-language functions
+11	SYS_NAMESPACE	0	system catalog schema
+99	SYS_NAMESPACE	0	reserved schema for TOAST tables
+2200	SYS_NAMESPACE	0	standard public schema
+3748	SYS_TS_CONFIG	0	simple configuration
+3765	SYS_TS_DICT	0	simple dictionary: just lower case and check for stopword
+3722	SYS_TS_PARSER	0	default word parser
+3727	SYS_TS_TEMPLATE	0	simple dictionary: just lower case and check for stopword
+3730	SYS_TS_TEMPLATE	0	synonym dictionary: replace word by its synonym
+3733	SYS_TS_TEMPLATE	0	ispell dictionary
+3742	SYS_TS_TEMPLATE	0	thesaurus dictionary: phrase by phrase substitution
+100	SYS_COLLATION	0	database's default collation
+950	SYS_COLLATION	0	standard C collation
+951	SYS_COLLATION	0	standard POSIX collation

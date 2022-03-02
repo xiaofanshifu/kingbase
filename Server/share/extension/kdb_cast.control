@@ -1,0 +1,5 @@
+# kdb_cast extension
+comment = 'kdb_cast extension'
+default_version = '1.0'
+module_pathname = '$libdir/kdb_cast'
+relocatable = true

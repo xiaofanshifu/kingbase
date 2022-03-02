@@ -1,0 +1,5 @@
+# tinyint extension
+comment = 'Create a new data type tinyint and its functions operators and indexes'
+default_version = '1.0'
+module_pathname = '$libdir/kdb_tinyint'
+relocatable = false

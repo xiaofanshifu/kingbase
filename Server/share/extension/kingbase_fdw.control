@@ -1,0 +1,5 @@
+# kingbase_fdw extension
+comment = 'foreign-data wrapper for remote Kingbase servers'
+default_version = '1.0'
+module_pathname = '$libdir/kingbase_fdw'
+relocatable = true

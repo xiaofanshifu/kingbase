@@ -1,0 +1,6 @@
+# syslogical_origin extension
+comment = 'Dummy extension for compatibility when upgrading from Kingbase 9.4'
+default_version = '1.0.0'
+module_pathname = '$libdir/syslogical'
+relocatable = false
+schema = syslogical_origin

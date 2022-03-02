@@ -1,0 +1,4 @@
+# sys_pathman extension
+comment = 'Partitioning tool for KingbaseES'
+default_version = '1.5'
+module_pathname = '$libdir/sys_pathman'

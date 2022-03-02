@@ -1,0 +1,3 @@
+# kfs_current_query extension
+module_pathname = '$libdir/kfs_current_query'
+schema = 'kfs_current_query'

@@ -1,0 +1,6 @@
+# sys_bulkload extension
+comment = 'sys_bulkload is a high speed data loading utility for KingbaseES'
+default_version = '1.0'
+module_pathname = '$libdir/sys_bulkload'
+relocatable = false
+schema = SYS_CATALOG

@@ -1,0 +1,6 @@
+# dbms_output extension
+comment = 'dbms_obfuscation_toolkit system package'
+default_version = '1.0'
+module_pathname = '$libdir/dbms_obfuscation_toolkit'
+relocatable = false
+schema = DBMS_OBFUSCATION_TOOLKIT

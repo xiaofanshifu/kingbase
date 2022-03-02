@@ -1,0 +1,5 @@
+# kdb_datetime_function extension
+comment = 'Functions of datetime that emulate a subset of functions and packages from the Oracle RDBMS'
+default_version = '1.0'
+module_pathname = '$libdir/kdb_datetime_function'
+relocatable = true
